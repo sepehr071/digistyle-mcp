@@ -1,0 +1,286 @@
+{
+ "status": 200,
+ "data": {
+  "brand_groups": {
+   "آ": [
+    {
+     "id": 1176,
+     "code": "alain-delon",
+     "title_fa": "آلن دلون",
+     "title_en": "Alain Delon",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/6015.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "6015"
+     }
+    },
+    {
+     "id": 1291,
+     "code": "adidas",
+     "title_fa": "آدیداس",
+     "title_en": "Adidas",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/21b62a2b3489b7a452d393cde3d1e22a78a24aa7_1620821635.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "21b62a2b3489b7a452d393cde3d1e22a78a24aa7_1620821635"
+     }
+    },
+    {
+     "id": 1341,
+     "code": "amouage",
+     "title_fa": "آمواژ",
+     "title_en": "Amouage",
+     "is_iranian_designer": false,
+     "is_iranian": true,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/db7387779373945f2c1e1ea5c1525356d0ded922_1792415152.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "db7387779373945f2c1e1ea5c1525356d0ded922_1792415152"
+     }
+    }
+   ],
+   "ا": [
+    {
+     "id": 138,
+     "code": "slik",
+     "title_fa": "اسلیک",
+     "title_en": "Slik",
+     "is_iranian_designer": false,
+     "is_iranian": true,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/5606.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "5606"
+     }
+    },
+    {
+     "id": 147,
+     "code": "scoop",
+     "title_fa": "اسکوپ",
+     "title_en": "Scoop",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": null
+    },
+    {
+     "id": 198,
+     "code": "energy",
+     "title_fa": "انرژی",
+     "title_en": "Energy",
+     "is_iranian_designer": false,
+     "is_iranian": true,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/a15fb867bf45038e953c3303decbe8a801100e13_1792311837.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "a15fb867bf45038e953c3303decbe8a801100e13_1792311837"
+     }
+    }
+   ],
+   "ب": [
+    {
+     "id": 213,
+     "code": "baseus",
+     "title_fa": "بیسوس",
+     "title_en": "Baseus",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/d19d5b39d8ce4f3f992d0e9b9441a185c04abac9_1792312484.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "d19d5b39d8ce4f3f992d0e9b9441a185c04abac9_1792312484"
+     }
+    },
+    {
+     "id": 366,
+     "code": "beurer",
+     "title_fa": "بیورر",
+     "title_en": "Beurer",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/6a20ca513257316f763a5f960711a16583887863_1792317033.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "6a20ca513257316f763a5f960711a16583887863_1792317033"
+     }
+    },
+    {
+     "id": 985,
+     "code": "babyliss",
+     "title_fa": "بابیلیس",
+     "title_en": "Babyliss",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/b9b58052fab300063d3f149dbb5d8876b7e60065_1792324599.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "b9b58052fab300063d3f149dbb5d8876b7e60065_1792324599"
+     }
+    }
+   ],
+   "پ": [
+    {
+     "id": 16,
+     "code": "panasonic",
+     "title_fa": "پاناسونیک",
+     "title_en": "Panasonic",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/910faa80e651174eb0b76767a3dfa77a9ef65024_1792310188.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "910faa80e651174eb0b76767a3dfa77a9ef65024_1792310188"
+     }
+    },
+    {
+     "id": 731,
+     "code": "police",
+     "title_fa": "پلیس",
+     "title_en": "POLICE",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/8cdbf1e0eca6ead3e6a6233185832fa17aae565b_1792323499.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "8cdbf1e0eca6ead3e6a6233185832fa17aae565b_1792323499"
+     }
+    },
+    {
+     "id": 1080,
+     "code": "pierre-cardin",
+     "title_fa": "پیر کاردین",
+     "title_en": "Pierre Cardin",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/4033.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "4033"
+     }
+    }
+   ],
+   "ت": [
+    {
+     "id": 499,
+     "code": "tissot",
+     "title_fa": "تیسوت",
+     "title_en": "TISSOT",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/5698.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "5698"
+     }
+    },
+    {
+     "id": 1404,
+     "code": "tom-ford",
+     "title_fa": "تام فورد",
+     "title_en": "Tom Ford",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/42aec9bd7929542063294c36f90548801d8e10ee_1620463267.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "42aec9bd7929542063294c36f90548801d8e10ee_1620463267"
+     }
+    },
+    {
+     "id": 1420,
+     "code": "tosan",
+     "title_fa": "توسن",
+     "title_en": "Tosan",
+     "is_iranian_designer": false,
+     "is_iranian": true,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/f10dd6b2444d4e207aa74beb21af4465b4d5a6b1_1792309441.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "f10dd6b2444d4e207aa74beb21af4465b4d5a6b1_1792309441"
+     }
+    }
+   ],
+   "ث": [
+    {
+     "id": 1778,
+     "code": "samin",
+     "title_fa": "ثمین",
+     "title_en": "Samin",
+     "is_iranian_designer": false,
+     "is_iranian": true,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/c783defd316715b7c7b4a81e64acaa4da00299c4_1792310987.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "c783defd316715b7c7b4a81e64acaa4da00299c4_1792310987"
+     },
+     "is_top": true
+    }
+   ],
+   "ج": [
+    {
+     "id": 1351,
+     "code": "giorgio-armani",
+     "title_fa": "جورجیو آرمانی",
+     "title_en": "GIORGIO ARMANI",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/100007844.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "100007844"
+     }
+    },
+    {
+     "id": 1862,
+     "code": "jewel",
+     "title_fa": "جویل",
+     "title_en": "Jewel",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/a40ab81460230b455d0fbd4d8d297ff695960e60_1792311317.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "a40ab81460230b455d0fbd4d8d297ff695960e60_1792311317"
+     }
+    },
+    {
+     "id": 1986,
+     "code": "giorgio-valenti",
+     "title_fa": "جورجیو ولنتی",
+     "title_en": "Giorgio Valenti",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/100011240.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "100011240"
+     }
+    }
+   ],
+   "چ": [
+    {
+     "id": 133,
+     "code": "dorsa",
+     "title_fa": "چرم درسا",
+     "title_en": "Dorsa",
+     "is_iranian_designer": false,
+     "is_iranian": true,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/d162b15ae2649f83303e27017842d84419786eff_1614673310.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "d162b15ae2649f83303e27017842d84419786eff_1614673310"
+     }
+    },
+    {
+     "id": 2041,
+     "code": "chicco",
+     "title_fa": "چیکو",
+     "title_en": "Chicco",
+     "is_iranian_designer": false,
+     "is_iranian": false,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/f12cf8114f16a1659e79fa7b3f8eecf254c9a01f_1792312102.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "f12cf8114f16a1659e79fa7b3f8eecf254c9a01f_1792312102"
+     }
+    },
+    {
+     "id": 3512,
+     "code": "mashad-leather",
+     "title_fa": "چرم مشهد",
+     "title_en": "Mashad Leather",
+     "is_iranian_designer": false,
+     "is_iranian": true,
+     "logo": {
+      "url": "https://dkstatics-public.digikala.com/digikala-brands/63e3c0bdcc97fa24ef31ccdda4da685f82bc5482_1792316631.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80",
+      "storage_id": "63e3c0bdcc97fa24ef31ccdda4da685f82bc5482_1792316631"
+     },
+     "is_top": true
+    }
+   ]
+  }
+ }
+}

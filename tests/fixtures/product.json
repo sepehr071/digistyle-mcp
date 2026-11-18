@@ -1,0 +1,735 @@
+{
+ "status": 200,
+ "data": {
+  "product": {
+   "id": 18564911,
+   "title_fa": "تی شرت آستین کوتاه زنانه باینت مدل 809-2",
+   "title_en": "",
+   "url": {
+    "url": "https://www.digistyle.com/product/18564911-تی-شرت-آستین-کوتاه-زنانه-باینت-مدل-809-2",
+    "page": "product_page",
+    "params": [],
+    "queries": []
+   },
+   "status": "marketable",
+   "default_variant_id": 64835572,
+   "images": {
+    "main": {
+     "url": "https://dkstatics-public.digikala.com/digikala-products/5cf3a606558c098c3ced3ad44f39537a1d77fa5f_1780127145.jpg?x-oss-process=image/resize,m_lfit,h_1000,w_1000/quality,q_80",
+     "thumbnail_url": "https://dkstatics-public.digikala.com/digikala-products/5cf3a606558c098c3ced3ad44f39537a1d77fa5f_1780127145.jpg?x-oss-process=image/resize,m_lfit,h_200,w_200/quality,q_80"
+    },
+    "list": [
+     {
+      "url": "https://dkstatics-public.digikala.com/digikala-products/15655611d08363a1973867143927961724eeed40_1741432468.jpg?x-oss-process=image/resize,m_lfit,h_1000,w_1000/quality,q_80",
+      "thumbnail_url": "https://dkstatics-public.digikala.com/digikala-products/15655611d08363a1973867143927961724eeed40_1741432468.jpg?x-oss-process=image/resize,m_lfit,h_200,w_200/quality,q_80"
+     },
+     {
+      "url": "https://dkstatics-public.digikala.com/digikala-products/c8902e51fb95b02bff6f73c180b150322df04b23_1780127031.jpg?x-oss-process=image/resize,m_lfit,h_1000,w_1000/quality,q_80",
+      "thumbnail_url": "https://dkstatics-public.digikala.com/digikala-products/c8902e51fb95b02bff6f73c180b150322df04b23_1780127031.jpg?x-oss-process=image/resize,m_lfit,h_200,w_200/quality,q_80"
+     }
+    ]
+   },
+   "price": {
+    "selling_price": 7990000,
+    "rrp_price": 11980000,
+    "order_limit": 9,
+    "is_incredible": false,
+    "is_promotion": true,
+    "discount_percent": 33,
+    "badge": {
+     "title": "حراج استایل",
+     "color": "#F33F85",
+     "icon": {
+      "url": "https://dkstatics-public.digikala.com/digikala-admin-landing/274e5e8d33ef3d63ce8bf920715ef8e738be2a40_1667131165.svg"
+     }
+    }
+   },
+   "rating": {
+    "rate": 90.87248322147651,
+    "count": 149
+   },
+   "colors": [
+    {
+     "id": 1,
+     "title": "مشکی",
+     "hex_code": "#000000",
+     "images": [
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/77eb62de081afc6f1da936136897cff9e8e9a70e_1741432264.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/77eb62de081afc6f1da936136897cff9e8e9a70e_1741432264.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 1,
+       "is_main": true
+      },
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/0c81c73e4cfdc91b51f6902c11b981fd0dc088e1_1741432258.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/0c81c73e4cfdc91b51f6902c11b981fd0dc088e1_1741432258.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 1,
+       "is_main": false
+      },
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/f5cdfe3bf965203406a1655bbd7d274f822ccff2_1741432262.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/f5cdfe3bf965203406a1655bbd7d274f822ccff2_1741432262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 1,
+       "is_main": false
+      },
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/1f0e6acecea2e3e4121aa2586df4f639c1855667_1741432261.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/1f0e6acecea2e3e4121aa2586df4f639c1855667_1741432261.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 1,
+       "is_main": false
+      },
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/93812eecfb6c2ffab235f7ae084416078f85d1be_1741432264.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/93812eecfb6c2ffab235f7ae084416078f85d1be_1741432264.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 1,
+       "is_main": false
+      },
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/db247d36c69b4c724d41cdf71c5e65426d0df626_1741434675.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/db247d36c69b4c724d41cdf71c5e65426d0df626_1741434675.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 1,
+       "is_main": false
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "title": "سبز روشن",
+     "hex_code": "#57C257",
+     "images": [
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/5cf3a606558c098c3ced3ad44f39537a1d77fa5f_1780127145.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/5cf3a606558c098c3ced3ad44f39537a1d77fa5f_1780127145.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 44,
+       "is_main": true
+      },
+      {
+       "image_url": "https://dkstatics-public.digikala.com/digikala-products/c8902e51fb95b02bff6f73c180b150322df04b23_1780127031.jpg",
+       "thumb_url": "https://dkstatics-public.digikala.com/digikala-products/c8902e51fb95b02bff6f73c180b150322df04b23_1780127031.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300",
+       "color_id": 44,
+       "is_main": false
+      }
+     ]
+    }
+   ],
+   "sizes": [
+    {
+     "id": 100177,
+     "title": "L"
+    },
+    {
+     "id": 100174,
+     "title": "XL"
+    }
+   ],
+   "properties": {
+    "has_gift": false,
+    "min_price_in_last_month": 7990000,
+    "is_digistyle_seller": false,
+    "is_outlet": false
+   },
+   "variants": [
+    {
+     "id": 64835572,
+     "lead_time": 2,
+     "rank": 0,
+     "rate": 94.2,
+     "statistics": {
+      "totally_satisfied": {
+       "rate_count": 5,
+       "rate": 71.43
+      },
+      "satisfied": {
+       "rate_count": 2,
+       "rate": 28.57
+      },
+      "neutral": {
+       "rate_count": 0,
+       "rate": 0
+      },
+      "dissatisfied": {
+       "rate_count": 0,
+       "rate": 0
+      },
+      "totally_dissatisfied": {
+       "rate_count": 0,
+       "rate": 0
+      },
+      "total_count": 7,
+      "total_rate": 94.2
+     },
+     "status": "marketable",
+     "size": {
+      "id": 1100177,
+      "title": "مشکی - L"
+     },
+     "themes": [
+      {
+       "value": {
+        "variant_id": 64835572,
+        "id": 100177,
+        "title": "L",
+        "nature": "alpha",
+        "value": "L",
+        "sort_order": 12
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": false
+      },
+      {
+       "value": {
+        "variant_id": 64835572,
+        "id": 1,
+        "title": "مشکی",
+        "code": "#000000",
+        "hexCode": "#000000",
+        "hex_code": "#000000",
+        "nature": "color",
+        "palette_ids": [
+         8
+        ]
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": true
+      }
+     ],
+     "seller": {
+      "id": 9766,
+      "title": "باینت",
+      "code": "5AKHE",
+      "is_digistyle": false,
+      "statistics": {
+       "cancellation": 100,
+       "return": 99.2,
+       "ship_on_time": 99.9
+      },
+      "rating": {
+       "total_rate": 86,
+       "total_count": 28071
+      },
+      "properties": {
+       "is_trusted": true,
+       "is_official": true,
+       "is_new": false
+      },
+      "stars": 5,
+      "registration_date": "8 سال و 6 ماه"
+     },
+     "warranty": {
+      "id": 272,
+      "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+      "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+     },
+     "price": {
+      "selling_price": 7990000,
+      "rrp_price": 11980000,
+      "order_limit": 9,
+      "is_incredible": false,
+      "is_promotion": true,
+      "discount_percent": 33,
+      "badge": {
+       "title": "حراج استایل",
+       "color": "#F33F85",
+       "icon": {
+        "url": "https://dkstatics-public.digikala.com/digikala-admin-landing/274e5e8d33ef3d63ce8bf920715ef8e738be2a40_1667131165.svg"
+       }
+      }
+     },
+     "shipment_methods": {
+      "providers": [
+       {
+        "title": "ارسال از 2 روز کاری",
+        "icon": {
+         "url": "https://dkstatics-public.digikala.com/digikala-admin-landing/06d0c19e66bd107567fe57fdd47e74acf1890d48_1667131180.svg"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "id": 64835585,
+     "lead_time": 2,
+     "rank": 0,
+     "rate": 94.2,
+     "statistics": {
+      "totally_satisfied": {
+       "rate_count": 11,
+       "rate": 78.57
+      },
+      "satisfied": {
+       "rate_count": 2,
+       "rate": 14.29
+      },
+      "neutral": {
+       "rate_count": 1,
+       "rate": 7.14
+      },
+      "dissatisfied": {
+       "rate_count": 0,
+       "rate": 0
+      },
+      "totally_dissatisfied": {
+       "rate_count": 0,
+       "rate": 0
+      },
+      "total_count": 14,
+      "total_rate": 94.2
+     },
+     "status": "marketable",
+     "size": {
+      "id": 1100174,
+      "title": "مشکی - XL"
+     },
+     "themes": [
+      {
+       "value": {
+        "variant_id": 64835585,
+        "id": 100174,
+        "title": "XL",
+        "nature": "alpha",
+        "value": "XL",
+        "sort_order": 13
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": false
+      },
+      {
+       "value": {
+        "variant_id": 64835585,
+        "id": 1,
+        "title": "مشکی",
+        "code": "#000000",
+        "hexCode": "#000000",
+        "hex_code": "#000000",
+        "nature": "color",
+        "palette_ids": [
+         8
+        ]
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": true
+      }
+     ],
+     "seller": {
+      "id": 9766,
+      "title": "باینت",
+      "code": "5AKHE",
+      "is_digistyle": false,
+      "statistics": {
+       "cancellation": 100,
+       "return": 99.2,
+       "ship_on_time": 99.9
+      },
+      "rating": {
+       "total_rate": 86,
+       "total_count": 28084
+      },
+      "properties": {
+       "is_trusted": true,
+       "is_official": true,
+       "is_new": false
+      },
+      "stars": 5,
+      "registration_date": "8 سال و 6 ماه"
+     },
+     "warranty": {
+      "id": 272,
+      "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+      "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+     },
+     "price": {
+      "selling_price": 7990000,
+      "rrp_price": 11980000,
+      "order_limit": 8,
+      "is_incredible": false,
+      "is_promotion": true,
+      "discount_percent": 33,
+      "badge": {
+       "title": "حراج استایل",
+       "color": "#F33F85",
+       "icon": {
+        "url": "https://dkstatics-public.digikala.com/digikala-admin-landing/274e5e8d33ef3d63ce8bf920715ef8e738be2a40_1667131165.svg"
+       }
+      }
+     },
+     "shipment_methods": {
+      "providers": [
+       {
+        "title": "ارسال از 2 روز کاری",
+        "icon": {
+         "url": "https://dkstatics-public.digikala.com/digikala-admin-landing/06d0c19e66bd107567fe57fdd47e74acf1890d48_1667131180.svg"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "id": 64835620,
+     "lead_time": 2,
+     "rank": 0,
+     "rate": 89.6,
+     "statistics": {
+      "totally_satisfied": {
+       "rate_count": 17,
+       "rate": 58.62
+      },
+      "satisfied": {
+       "rate_count": 11,
+       "rate": 37.93
+      },
+      "neutral": {
+       "rate_count": 0,
+       "rate": 0
+      },
+      "dissatisfied": {
+       "rate_count": 0,
+       "rate": 0
+      },
+      "totally_dissatisfied": {
+       "rate_count": 1,
+       "rate": 3.45
+      },
+      "total_count": 29,
+      "total_rate": 89.6
+     },
+     "status": "marketable",
+     "size": {
+      "id": 44100177,
+      "title": "سبز روشن - L"
+     },
+     "themes": [
+      {
+       "value": {
+        "variant_id": 64835620,
+        "id": 100177,
+        "title": "L",
+        "nature": "alpha",
+        "value": "L",
+        "sort_order": 12
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": false
+      },
+      {
+       "value": {
+        "variant_id": 64835620,
+        "id": 44,
+        "title": "سبز روشن",
+        "code": "#57C257",
+        "hexCode": "#57C257",
+        "hex_code": "#57C257",
+        "nature": "color",
+        "palette_ids": [
+         11
+        ]
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": true
+      }
+     ],
+     "seller": {
+      "id": 9766,
+      "title": "باینت",
+      "code": "5AKHE",
+      "is_digistyle": false,
+      "statistics": {
+       "cancellation": 100,
+       "return": 99.2,
+       "ship_on_time": 99.9
+      },
+      "rating": {
+       "total_rate": 86,
+       "total_count": 28071
+      },
+      "properties": {
+       "is_trusted": true,
+       "is_official": true,
+       "is_new": false
+      },
+      "stars": 5,
+      "registration_date": "8 سال و 6 ماه"
+     },
+     "warranty": {
+      "id": 272,
+      "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+      "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+     },
+     "price": {
+      "selling_price": 7990000,
+      "rrp_price": 11890000,
+      "order_limit": 5,
+      "is_incredible": false,
+      "is_promotion": true,
+      "discount_percent": 33,
+      "badge": {
+       "title": "حراج استایل",
+       "color": "#F33F85",
+       "icon": {
+        "url": "https://dkstatics-public.digikala.com/digikala-admin-landing/274e5e8d33ef3d63ce8bf920715ef8e738be2a40_1667131165.svg"
+       }
+      }
+     },
+     "shipment_methods": {
+      "providers": [
+       {
+        "title": "ارسال از 2 روز کاری",
+        "icon": {
+         "url": "https://dkstatics-public.digikala.com/digikala-admin-landing/06d0c19e66bd107567fe57fdd47e74acf1890d48_1667131180.svg"
+        }
+       }
+      ]
+     }
+    }
+   ],
+   "has_makeup_try_on": false,
+   "has_style_try_on": true,
+   "category": {
+    "id": 9347,
+    "title_fa": "تی شرت زنانه",
+    "title_en": "WOMEN TEE-SHIRTS",
+    "code": "women-tee-shirts"
+   },
+   "brand": {
+    "id": 7005,
+    "code": "baynet",
+    "title_fa": "باینت",
+    "title_en": "Baynet",
+    "is_visible": true,
+    "logo": {
+     "url": "https://dkstatics-public.digikala.com/digikala-brands/81a415d87d6ac26fdd2d3b04eb1753087a70032e_1792323323.jpg?x-oss-process=image/resize,m_lfit,h_120,w_120/quality,q_80"
+    }
+   },
+   "category_brand": {
+    "title": "تی شرت زنانه باینت",
+    "url": {
+     "url": "https://www.digistyle.com/brand/baynet/women-tee-shirts/",
+     "page": "brand_page",
+     "params": {
+      "brand_code": "baynet",
+      "category_code": "women-tee-shirts"
+     },
+     "queries": []
+    }
+   },
+   "videos": [],
+   "review": {
+    "description": "این تی‌شرت آستین کوتاه زنانه با طراحی ساده و چاپی از برند باینت، انتخاب خوبی برای استایل‌های روزمره و اسپرت است. فرم آزاد و قدی که روی باسن قرار می‌گیرد، به راحتی با انواع شلوارهای جین، کتان یا شلوارک‌های راحتی هماهنگ می‌شود و فضایی برای ایجاد ترکیب‌های متنوع فراهم می‌کند. یقه گرد این تی‌شرت باعث می‌شود بتوانید آن را زیر کت‌های نازک یا ژاکت‌های سبک بپوشید و برای یک روز کاری غیررسمی یا گردش‌های روزمره به راحتی استفاده کنید. رنگ ملایم و طرح چاپی باعث می‌شود این تی‌شرت بتواند نقش تکه‌ای جذاب و در عین حال غیرپیچیده را در استایلتان ایفا کند و همراه با اکسسوری‌های ساده مثل ساعت یا کیف کوچک، ظاهری متعادل و امروزی بسازد.",
+    "attributes": [
+     {
+      "title": "نوع تی شرت زنانه",
+      "values": [
+       "تی شرت آستین کوتاه"
+      ]
+     },
+     {
+      "title": "جنس",
+      "values": [
+       "نخ",
+       "پنبه"
+      ]
+     },
+     {
+      "title": "قد",
+      "values": [
+       "روی باسن"
+      ]
+     },
+     {
+      "title": "تنخور لباس",
+      "values": [
+       "معمولی (Regular Fit)"
+      ]
+     },
+     {
+      "title": "مدل یقه",
+      "values": [
+       "گرد"
+      ]
+     }
+    ]
+   },
+   "comments": {
+    "count": 67,
+    "top_comments": [
+     {
+      "id": 90924497,
+      "title": null,
+      "body": " همون طرح و رنگ .راضیم مناسبه.",
+      "created_at": "13 آبان 1405",
+      "rate": 4,
+      "reactions": {
+       "likes": 0,
+       "dislikes": 0
+      },
+      "recommend": null,
+      "is_buyer": true,
+      "user_name": "کاربر دیجی‌کالا",
+      "advantages": [],
+      "disadvantages": [],
+      "files": []
+     },
+     {
+      "id": 90818007,
+      "title": null,
+      "body": "من در حاضر سایزم حدود ۴۰ هست سایز مدیوم رو‌برداشتم مناسب بود برام باید جند بار بشمرم ببینم کیفیتش چطوره",
+      "created_at": "8 آبان 1405",
+      "rate": 5,
+      "reactions": {
+       "likes": 0,
+       "dislikes": 0
+      },
+      "recommend": null,
+      "is_buyer": true,
+      "user_name": "زینب خورشیدوند",
+      "advantages": [],
+      "disadvantages": [],
+      "files": []
+     }
+    ],
+    "top_media_comments": []
+   },
+   "has_size_guide": true,
+   "breadcrumb": [
+    {
+     "title": "دیجی‌استایل",
+     "url": {
+      "url": "https://www.digistyle.com/",
+      "page": "main_page",
+      "params": [],
+      "queries": []
+     }
+    },
+    {
+     "title": "مد و پوشاک",
+     "url": {
+      "url": "https://www.digistyle.com/category/apparel/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "apparel"
+      },
+      "queries": []
+     },
+     "image": null
+    },
+    {
+     "title": "زنانه",
+     "url": {
+      "url": "https://www.digistyle.com/category/womens-apparel/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "womens-apparel"
+      },
+      "queries": []
+     },
+     "image": null
+    },
+    {
+     "title": "لباس زنانه",
+     "url": {
+      "url": "https://www.digistyle.com/category/women-clothing/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "women-clothing"
+      },
+      "queries": []
+     },
+     "image": null
+    },
+    {
+     "title": "تی شرت زنانه",
+     "url": {
+      "url": "https://www.digistyle.com/category/women-tee-shirts/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "women-tee-shirts"
+      },
+      "queries": []
+     },
+     "image": {
+      "url": "https://dkstatics-public.digikala.com/digikala-products/902cc4c941ebac5f226de4a48b0dbf545f907fab_1626598532.jpg?x-oss-process=image/resize,m_lfit,h_200,w_200/quality,q_80"
+     }
+    }
+   ],
+   "meta": {
+    "share_url": "https://www.digistyle.com/product/18564911-"
+   },
+   "specifications": [
+    {
+     "title": "مشخصات",
+     "attributes": [
+      {
+       "title": "نوع تی شرت زنانه",
+       "values": [
+        "تی شرت آستین کوتاه "
+       ]
+      },
+      {
+       "title": "جنس",
+       "values": [
+        "نخ ",
+        "پنبه "
+       ]
+      },
+      {
+       "title": "طرح",
+       "values": [
+        "چاپ "
+       ]
+      },
+      {
+       "title": "قد",
+       "values": [
+        "روی باسن "
+       ]
+      },
+      {
+       "title": "تنخور لباس",
+       "values": [
+        "معمولی (Regular Fit) "
+       ]
+      },
+      {
+       "title": "مدل یقه",
+       "values": [
+        "گرد "
+       ]
+      },
+      {
+       "title": "نوع آستین",
+       "values": [
+        "آستین سه ربع "
+       ]
+      },
+      {
+       "title": "مورد استفاده",
+       "values": [
+        "اسپرت ",
+        "روزمره "
+       ]
+      }
+     ]
+    }
+   ],
+   "comments_overview": {
+    "id": 435729,
+    "overview": "بیشتر کاربران از کیفیت و دوخت خوب تیشرت راضی بودند و جنس پارچه را مناسب و راحت توصیف کردند. رنگ و طرح مطابق عکس بود و سایزها عموماً دقیق و مناسب انتخاب شده بودند، حتی با وجود اختلاف در سایزهای تولیدی جدید. خرید این برند را به دلیل دوام و ظاهر خوب توصیه می‌کنند و احساس رضایت کلی داشتند.\nبا این حال، چند نفر از بزرگ بودن سایزهای جدید شکایت داشتند و بعضی معتقد بودند سایزها کمی بزرگ‌تر شده است. بعضی کاربران به باز بودن یقه و جنس معمولی اشاره کردند، که ممکن است برای بعضی افراد مشکل‌ساز باشد. در مجموع، کیفیت را قابل قبول میدانند اما نسبت به تفاوت سایزها هشدار می‌دهند.\nدر نهایت، این تیشرت به عنوان محصولی با کیفیت و طراحی زیبا توصیه می‌شود، ولی نکات مربوط به سایز و تناسب آن مهم است و باید در انتخاب سایز دقت بیشتری داشت.",
+    "advantages": [
+     "کیفیت خوب و دوخت تمیز",
+     "طرح و رنگ مطابق تصویر",
+     "راحت و نرم بودن پارچه"
+    ],
+    "disadvantages": [
+     "سایزهای جدید بزرگ‌تر شده‌اند",
+     "یقه کمی باز است",
+     "جنس معمولی و زود از قیافه می‌افتد"
+    ]
+   }
+  }
+ }
+}

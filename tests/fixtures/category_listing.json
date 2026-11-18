@@ -1,0 +1,2090 @@
+{
+ "data": {
+  "breadcrumb": [
+   {
+    "title": "فروشگاه اینترنتی دیجی‌استایل",
+    "url": {
+     "uri": "/"
+    }
+   },
+   {
+    "title": "مد و پوشاک",
+    "url": {
+     "uri": "/search/category-apparel/"
+    }
+   },
+   {
+    "title": "زنانه",
+    "url": {
+     "uri": "/search/category-womens-apparel/"
+    }
+   },
+   {
+    "title": "لباس زنانه",
+    "url": {
+     "uri": "/search/category-women-clothing/"
+    }
+   },
+   {
+    "title": "تی شرت زنانه",
+    "url": {
+     "uri": "/search/category-women-tee-shirts/"
+    }
+   }
+  ],
+  "category": {
+   "id": 9347,
+   "code": "women-tee-shirts",
+   "title_fa": "تی شرت زنانه",
+   "title_en": "WOMEN TEE-SHIRTS",
+   "url": {
+    "uri": "/search/category-women-tee-shirts/"
+   },
+   "parent_id": 9282,
+   "is_leaf": true
+  },
+  "filters": {
+   "price": {
+    "title": "محدوده قیمت",
+    "options": {
+     "min": 3200000,
+     "max": 299700000
+    },
+    "type": "slider"
+   },
+   "brands": {
+    "type": "checkbox",
+    "title": "برند",
+    "top_options": [
+     {
+      "id": 7151,
+      "code": "esmara",
+      "title_fa": "اسمارا",
+      "title_en": "Esmara",
+      "url": {
+       "base": null,
+       "uri": "/brand/esmara/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/69c8f11fdac7ff6adb49ca108df04392a6d1228e_1792323367.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 10640,
+      "code": "defacto",
+      "title_fa": "دیفکتو",
+      "title_en": "Defacto",
+      "url": {
+       "base": null,
+       "uri": "/brand/defacto/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/d1bec8d88c89b7446cf1f8a86a75eb63c0c46ed9_1792307704.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 23478,
+      "code": "easydo",
+      "title_fa": "ایزی دو",
+      "title_en": "Easydo",
+      "url": {
+       "base": null,
+       "uri": "/brand/easydo/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/d4f8e5897bb6238664b869da9284d4d7becaa2ac_1792313238.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 4055,
+      "code": "lcwaikiki",
+      "title_fa": "ال سی وایکیکی",
+      "title_en": "LC Waikiki",
+      "url": {
+       "base": null,
+       "uri": "/brand/lcwaikiki/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/da4cf538feb0b1d3eeb8078fdd09e68c529625ff_1792318240.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 7005,
+      "code": "baynet",
+      "title_fa": "باینت",
+      "title_en": "Baynet",
+      "url": {
+       "base": null,
+       "uri": "/brand/baynet/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/81a415d87d6ac26fdd2d3b04eb1753087a70032e_1792323323.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     }
+    ],
+    "options": [
+     {
+      "id": 2222,
+      "code": "ador",
+      "title_fa": "آدور",
+      "title_en": "Ador",
+      "url": {
+       "base": null,
+       "uri": "/brand/ador/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/100007862.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 56164,
+      "code": "adors",
+      "title_fa": "آدورس",
+      "title_en": "ADORS",
+      "url": {
+       "base": null,
+       "uri": "/brand/adors/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/b3cec569375c5b8cc088e10ab57421c0677b3ddf_1785911797.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 8403,
+      "code": "rns",
+      "title_fa": "آر اِن اِس",
+      "title_en": "RNS",
+      "url": {
+       "base": null,
+       "uri": "/brand/rns/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/5249.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 42600,
+      "code": "up2fashion",
+      "title_fa": "آپ2فشن",
+      "title_en": "up2fashion",
+      "url": {
+       "base": null,
+       "uri": "/brand/up2fashion/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/a24027d14ba6d6bd8ae31e5d100a718f9fae7f28_1703352587.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 2638,
+      "code": "soliver",
+      "title_fa": "اس.اولیور",
+      "title_en": "S.Oliver",
+      "url": {
+       "base": null,
+       "uri": "/brand/soliver/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/3753d1e9a08801408f240a5221b0b188f5c3078d_1724681085.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     }
+    ]
+   },
+   "color_palettes": {
+    "type": "checkbox",
+    "title": "رنگ",
+    "options": [
+     {
+      "id": 12,
+      "title": "آبی",
+      "hex_code": "#3498db",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/53cd2901b76a741e9011ace2659b9f4c0e52f578_1670664279.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "آبی - سرمه‌ای - فیروزه ای - سبز آبی - نقره‌ای آبی - آبی تیره - آبی روشن - سفید یخی - آبی متالیک - سرمه‌ای روشن - سرمه‌ای تیره -  آبی نفتی - آبی یخی - آبی کدر - آبی رویال - لاجوردی - آبی کاربنی - آبی نیلی - آبی آسمانی - آبی کم‌رنگ - آبی دودی"
+     },
+     {
+      "id": 2,
+      "title": "بنفش",
+      "hex_code": "#9b59b6",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/f275e126421d91ecdaaf0aa80310d3ac39510346_1670664302.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "بنفش - یاسی - چند رنگ - بنفش تیره - صورتی خاکستری - بنفش روشن - ارغوانی - ارغوانی روشن - بادمجانی"
+     },
+     {
+      "id": 3,
+      "title": "زرد",
+      "hex_code": "#f1c40f",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/d019e79e841a500ebd4ce2b91ba11d28921a88b0_1670664216.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "زرد، طلایی - زرد خردلی - بژ - زرد کم‌رنگ - آفتابی - لیمویی طلایی - طلایی مات - زرد نباتی - زرد لیمویی - عسلی - زرد فسفری - بژ براق - طلایی براق - اخرایی - گندمی - بلوند روشن - نخودی - زرد فلورسنت - زردآلویی"
+     },
+     {
+      "id": 11,
+      "title": "سبز",
+      "hex_code": "#12b844",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/e93523d755acd1851052687b30f231edea4cb9bc_1670664245.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "سبز - سبز فسفری - یشمی - زیتونی - سبز آبی - سبز روشن - سبز تیره - سبز کله غازی - سبز سدری - سبز یشمی - سبز کاهویی - سبز مغز پسته‌ای - سبز دریایی - سبز فلورسنت - ارتشی زیتونی - سبز نعنایی"
+     },
+     {
+      "id": 5,
+      "title": "سفید",
+      "hex_code": "#ffffff",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/a16c557a142f56435d8501e7fbf1d2c0cf93a615_1670664037.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "سفید - کرم - سفید صدفی - بی‌رنگ - بی‌رنگ مات - بی‌رنگ شفاف - مهتابی - سفید یخی - سفید چرمی - شیری - هفت رنگ - استخوانی - وانیلی - کرم روشن - سفید براق - سفید متالیک"
+     },
+     {
+      "id": 1,
+      "title": "صورتی",
+      "hex_code": "#ff69b4",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/82bb84f17b73bc116114c3d72d9fadaa6da3ea49_1670664327.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "صورتی - پوست پیازی - گل بهی - صورتی تیره - رز گلد - کالباسی - صورتی خاکستری - صورتی روشن - صورتی فلورسنت - صورتی مرجانی"
+     },
+     {
+      "id": 7,
+      "title": "طوسی",
+      "hex_code": "#7f8c8d",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/e3f34aeca4096bfb699fd8e1d19a632221599b8e_1670663944.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "طوسی - خاکستری - نقره‌ای - نقره‌ای آبی - طوسی - مات - براق - استیل - کروم - نقره‌ای مات - طوسی روشن - کروم مات - دودی - طوسی فیلی - طوسی تیره - دودی متالیک - آبی طوسی - ارتشی طوسی"
+     },
+     {
+      "id": 9,
+      "title": "قرمز",
+      "hex_code": "#e74c3c",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/cb99d178c29f70ecd58b14390f685e2c5cf2b152_1670664354.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "قرمز - زرشکی - پوست پیازی - مسی - سرخابی - گیلاسی - قرمز مات - قرمز آجری - عنابی - قرمز روشن - مارون - قرمز شرابی - یاقوتی - جگری - آلبالویی - گوجه ای - قرمز تیره - سرخ مخملی"
+     },
+     {
+      "id": 10,
+      "title": "قهوه‌ای",
+      "hex_code": "#8b4513",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/3a2570fe27f72878c178bd68525708cf501b8be9_1670664076.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "قهوه‌ای - کرم - نسکافه‌ای - ماهگونی - شکلاتی - قهوه‌ای تیره - قهوه‌ای روشن - برنز - طلایی مات - کرم تیره - کردوبایی - برنجی - عنابی - قهوه‌ای شتری - خاکی - گردویی - قهوه‌ای روشن مات - قهوه‌ای روشن براق - فندقی - خودرنگ روشن - خودرنگ تیره - ارتشی خاکی"
+     },
+     {
+      "id": 8,
+      "title": "مشکی",
+      "hex_code": "#000000",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/6b73478aca3fed39aafd08b3406536b5a1fcfbb1_1670663838.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "مشکی - نوک مدادی - شکلاتی - قهوه‌ای تیره - مشکی مات - مشکی براق - ذغالی - سرمه‌ای تیره - دودی متالیک"
+     },
+     {
+      "id": 4,
+      "title": "نارنجی",
+      "hex_code": "#e67e22",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/7da19e7628cff9a9eb242fa7f51cc4a529630a1a_1670664186.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "نارنجی - نارنجی کم‌رنگ - قرمز آجری - عسلی - مرجانی - کهربایی - هلویی - نارنجی فسفری - نارنجی فلورسنت"
+     },
+     {
+      "id": 6,
+      "title": "نقره‌ای",
+      "hex_code": "#c0c0c0",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/cc3c51cc8a21764038bbcf381f538f40bc48e6a8_1670663991.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "نقره‌ای - سفید صدفی - نقره‌ای آبی - طوسی - براق - مهتابی - سفید یخی - استیل - نقره‌ای چرم - تیتانیومی - کروم - نقره‌ای مات - کروم مات - پلاتینیوم - آلومینیومی - استیل مات - استیل براق - استیل طلایی"
+     }
+    ]
+   },
+   "sizes": {
+    "type": "checkbox",
+    "title": "اندازه",
+    "top_options": [
+     {
+      "id": 100187,
+      "title": "4XL"
+     },
+     {
+      "id": 100189,
+      "title": "3XL"
+     },
+     {
+      "id": 103041,
+      "title": "فری سایز"
+     },
+     {
+      "id": 100523,
+      "title": "52-54"
+     },
+     {
+      "id": 100702,
+      "title": "48-50"
+     },
+     {
+      "id": 100172,
+      "title": "XXL"
+     },
+     {
+      "id": 100079,
+      "title": "38"
+     },
+     {
+      "id": 100520,
+      "title": "44-48"
+     },
+     {
+      "id": 100176,
+      "title": "M"
+     },
+     {
+      "id": 100704,
+      "title": "48-52"
+     },
+     {
+      "id": 100083,
+      "title": "40"
+     },
+     {
+      "id": 100698,
+      "title": "46-48"
+     },
+     {
+      "id": 100564,
+      "title": "44-46"
+     },
+     {
+      "id": 110194,
+      "title": "44 - 46"
+     },
+     {
+      "id": 110294,
+      "title": "58 - 60"
+     },
+     {
+      "id": 100091,
+      "title": "44"
+     },
+     {
+      "id": 100562,
+      "title": "42-44"
+     },
+     {
+      "id": 100174,
+      "title": "XL"
+     },
+     {
+      "id": 100196,
+      "title": "XL-XXL"
+     },
+     {
+      "id": 100177,
+      "title": "L"
+     },
+     {
+      "id": 100175,
+      "title": "S"
+     },
+     {
+      "id": 100087,
+      "title": "42"
+     },
+     {
+      "id": 100173,
+      "title": "XS"
+     },
+     {
+      "id": 100206,
+      "title": "L-XL"
+     },
+     {
+      "id": 100545,
+      "title": "36-38"
+     },
+     {
+      "id": 100557,
+      "title": "40-42"
+     },
+     {
+      "id": 100561,
+      "title": "40-44"
+     },
+     {
+      "id": 100075,
+      "title": "36"
+     },
+     {
+      "id": 100537,
+      "title": "34-36"
+     },
+     {
+      "id": 103224,
+      "title": "32-36"
+     },
+     {
+      "id": 100511,
+      "title": "36-48"
+     },
+     {
+      "id": 100538,
+      "title": "36-40"
+     },
+     {
+      "id": 100546,
+      "title": "38-40"
+     },
+     {
+      "id": 103282,
+      "title": "34-32"
+     },
+     {
+      "id": 100071,
+      "title": "34"
+     },
+     {
+      "id": 100194,
+      "title": "XS-S"
+     },
+     {
+      "id": 103272,
+      "title": "32-34"
+     },
+     {
+      "id": 100199,
+      "title": "S-M"
+     },
+     {
+      "id": 100204,
+      "title": "M-L"
+     },
+     {
+      "id": 100171,
+      "title": "XXS"
+     }
+    ],
+    "options": [
+     {
+      "id": 103272,
+      "title": "32-34"
+     },
+     {
+      "id": 103224,
+      "title": "32-36"
+     },
+     {
+      "id": 100071,
+      "title": "34"
+     },
+     {
+      "id": 103282,
+      "title": "34-32"
+     },
+     {
+      "id": 100537,
+      "title": "34-36"
+     },
+     {
+      "id": 100075,
+      "title": "36"
+     },
+     {
+      "id": 100545,
+      "title": "36-38"
+     },
+     {
+      "id": 100538,
+      "title": "36-40"
+     },
+     {
+      "id": 100511,
+      "title": "36-48"
+     },
+     {
+      "id": 100079,
+      "title": "38"
+     },
+     {
+      "id": 100546,
+      "title": "38-40"
+     },
+     {
+      "id": 100189,
+      "title": "3XL"
+     },
+     {
+      "id": 100083,
+      "title": "40"
+     },
+     {
+      "id": 110415,
+      "title": "40 - 42"
+     },
+     {
+      "id": 100557,
+      "title": "40-42"
+     },
+     {
+      "id": 100561,
+      "title": "40-44"
+     },
+     {
+      "id": 100087,
+      "title": "42"
+     },
+     {
+      "id": 100562,
+      "title": "42-44"
+     },
+     {
+      "id": 100091,
+      "title": "44"
+     },
+     {
+      "id": 110194,
+      "title": "44 - 46"
+     },
+     {
+      "id": 100564,
+      "title": "44-46"
+     },
+     {
+      "id": 100520,
+      "title": "44-48"
+     },
+     {
+      "id": 100698,
+      "title": "46-48"
+     },
+     {
+      "id": 100702,
+      "title": "48-50"
+     },
+     {
+      "id": 100704,
+      "title": "48-52"
+     },
+     {
+      "id": 100187,
+      "title": "4XL"
+     },
+     {
+      "id": 100523,
+      "title": "52-54"
+     },
+     {
+      "id": 110294,
+      "title": "58 - 60"
+     },
+     {
+      "id": 100177,
+      "title": "L"
+     },
+     {
+      "id": 100206,
+      "title": "L-XL"
+     },
+     {
+      "id": 100176,
+      "title": "M"
+     },
+     {
+      "id": 100204,
+      "title": "M-L"
+     },
+     {
+      "id": 100175,
+      "title": "S"
+     },
+     {
+      "id": 100199,
+      "title": "S-M"
+     },
+     {
+      "id": 100174,
+      "title": "XL"
+     },
+     {
+      "id": 100196,
+      "title": "XL-XXL"
+     },
+     {
+      "id": 100173,
+      "title": "XS"
+     },
+     {
+      "id": 100194,
+      "title": "XS-S"
+     },
+     {
+      "id": 100172,
+      "title": "XXL"
+     },
+     {
+      "id": 100171,
+      "title": "XXS"
+     }
+    ]
+   },
+   "attribute_50": {
+    "title": "نوع آستین",
+    "options": [
+     {
+      "id": 114,
+      "title_fa": "آستین بلند",
+      "title_en": "long-sleeved"
+     },
+     {
+      "id": 115,
+      "title_fa": "آستین تا روی شانه",
+      "title_en": "shoulder-length-sleeves"
+     },
+     {
+      "id": 117,
+      "title_fa": "آستین سه ربع",
+      "title_en": "Three-quarter-sleeves"
+     },
+     {
+      "id": 118,
+      "title_fa": "آستین کوتاه",
+      "title_en": "Short-sleeved"
+     }
+    ],
+    "top_options": [
+     {
+      "id": 114,
+      "title_fa": "آستین بلند",
+      "title_en": "long-sleeved"
+     },
+     {
+      "id": 117,
+      "title_fa": "آستین سه ربع",
+      "title_en": "Three-quarter-sleeves"
+     },
+     {
+      "id": 118,
+      "title_fa": "آستین کوتاه",
+      "title_en": "Short-sleeved"
+     },
+     {
+      "id": 115,
+      "title_fa": "آستین تا روی شانه",
+      "title_en": "shoulder-length-sleeves"
+     }
+    ],
+    "type": "checkbox"
+   },
+   "has_ready_to_shipment": {
+    "type": "switch",
+    "title": "فقط کالاهای موجود در انبار",
+    "options": [
+     {
+      "id": 0,
+      "title": "کالاهای آماده ارسال"
+     }
+    ]
+   },
+   "has_ship_by_seller": {
+    "type": "switch",
+    "title": "ارسال فروشنده",
+    "description": "با خرید از کالاهایی با امکان ارسال توسط فروشنده می‌توانید سفارش خود را زودتر تحویل بگیرید",
+    "icon": "https://dkstatics-public.digikala.com/digikala-static/7fd084adca1efff834cdd871cb97a0307c0f8c51_1700488931.svg",
+    "options": [
+     {
+      "id": 0,
+      "title": "فقط در شهر تهران"
+     }
+    ]
+   },
+   "seller_types": {
+    "type": "checkbox",
+    "title": "نوع فروشنده",
+    "options": [
+     {
+      "id": "official",
+      "title": "فروشنده رسمی"
+     },
+     {
+      "id": "trusted",
+      "title": "فروشنده برگزیده"
+     },
+     {
+      "id": "digikala",
+      "title": "دیجی‌کالا"
+     },
+     {
+      "id": "roosta",
+      "title": "کسب و کارهای بومی"
+     }
+    ]
+   },
+   "has_selling_stock": {
+    "type": "switch",
+    "title": "فقط کالاهای موجود",
+    "options": [
+     {
+      "id": 0,
+      "title": "کالاهای موجود"
+     }
+    ]
+   },
+   "is_outlet": {
+    "type": "switch",
+    "title": "اوتلت",
+    "options": null
+   },
+   "shipment_methods": {
+    "type": "switch-box",
+    "title": "تحویل سریع",
+    "icon": "https://dkstatics-public.digikala.com/digikala-static/262c38c0e4990522af759e0016a287508bbc84f6_1684761217.png",
+    "options": [
+     {
+      "type": "checkbox",
+      "title": "تحویل سریع امروز",
+      "icon": "https://dkstatics-public.digikala.com/digikala-static/262c38c0e4990522af759e0016a287508bbc84f6_1684761217.png",
+      "options": {
+       "id": 0,
+       "title_fa": "تحویل سریع امروز",
+       "description_fa": "تحویل توسط دیجی‌کالا",
+       "delivery_day_offset": 0
+      },
+      "key": "has_jet_delivery",
+      "active": false
+     },
+     {
+      "type": "checkbox",
+      "title": "ارسال سریع فروشنده",
+      "icon": "https://dkstatics-public.digikala.com/digikala-static/0b2e434082086772757c1e33fce4e64e656a3a52_1752057530.png",
+      "options": {
+       "id": 0,
+       "title_fa": "ارسال سریع فروشنده",
+       "description_fa": "تحویل امروز",
+       "delivery_day_offset": 0
+      },
+      "key": "jet_sbs_city_ids",
+      "active": false
+     }
+    ]
+   }
+  },
+  "pager": {
+   "current_page": 1,
+   "total_pages": 28,
+   "total_items": 550
+  },
+  "products": [
+   {
+    "badges": [],
+    "colors": [
+     {
+      "id": 1,
+      "title": "مشکی",
+      "code": "#000000",
+      "hex_code": "#000000"
+     }
+    ],
+    "data_layer": {
+     "brand": "الوج",
+     "category": "[AP,تی‌شرت و پولوشرت زنانه]",
+     "metric6": 12,
+     "dimension2": 63,
+     "dimension6": 0,
+     "dimension7": "special-offer",
+     "dimension9": 4.2,
+     "dimension11": 0,
+     "dimension20": "marketable",
+     "item_category2": "مد و پوشاک",
+     "item_category3": "زنانه",
+     "item_category4": "لباس زنانه",
+     "item_category5": "تی شرت زنانه"
+    },
+    "default_variant": {
+     "id": 78778034,
+     "title": "کراپ تی‌شرت آستین کوتاه زنانه الوج مدل BLN | مشکی | S | گارانتی اصالت و سلامت فیزیکی کالا",
+     "status": "marketable",
+     "rate": 0,
+     "lead_time": 0,
+     "rank": 0,
+     "order_limit": 5,
+     "marketable_stock": 1,
+     "themes": [
+      {
+       "value": {
+        "variant_id": 78778034,
+        "id": 1,
+        "title": "مشکی",
+        "code": "#000000",
+        "hex_code": "#000000",
+        "nature": "color"
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": true
+      },
+      {
+       "value": {
+        "variant_id": 78778034,
+        "id": 100175,
+        "title": "S",
+        "nature": "alpha"
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": false
+      }
+     ],
+     "color": {
+      "id": 1,
+      "title": "مشکی",
+      "code": "#000000",
+      "hex_code": "#000000"
+     },
+     "seller": {
+      "id": 1,
+      "title": "دیجی‌کالا",
+      "code": "5A52N",
+      "url": "/seller/5A52N/",
+      "rating": {
+       "total_rate": 0,
+       "total_count": 0,
+       "commitment": 0,
+       "no_return": 0,
+       "on_time_shipping": 0
+      },
+      "properties": {
+       "is_trusted": false,
+       "is_official": false,
+       "is_roosta": false,
+       "is_new": false
+      },
+      "stars": null,
+      "grade": {
+       "label": "بدون عملکرد",
+       "color": "#81858B"
+      },
+      "registration_date": "",
+      "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+     },
+     "price": {
+      "selling_price": 3200000,
+      "rrp_price": 8700000,
+      "order_limit": 5,
+      "is_incredible": false,
+      "is_promotion": true,
+      "is_locked_for_digiplus": false,
+      "bnpl_active": false,
+      "marketable_stock": 1,
+      "discount_percent": 63,
+      "min_order_limit": 1,
+      "badge": {
+       "title": "فروش ویژه"
+      },
+      "discount": 63,
+      "is_selling_and_sales": true,
+      "show_discount_badge": true
+     },
+     "has_importer_price": false,
+     "manufacture_price_not_exist": false,
+     "has_best_price_in_last_month": false
+    },
+    "gallery_variant_type": "vertical",
+    "has_quick_view": false,
+    "id": 21533190,
+    "images": {
+     "main": {
+      "url": [
+       "https://dkstatics-public.digikala.com/digikala-products/afcb344a095c410d828e0fa2b5261dad42baaf72_1785157193.jpg"
+      ],
+      "webp_url": [
+       ""
+      ]
+     }
+    },
+    "product_type": "product",
+    "properties": {
+     "is_fast_shipping": false,
+     "is_ship_by_seller": false,
+     "free_shipping_badge": false,
+     "is_multi_warehouse": false,
+     "is_fake": false,
+     "has_gift": false,
+     "min_price_in_last_month": null,
+     "is_non_inventory": false,
+     "is_outlet": false,
+     "is_jet_eligible": true,
+     "is_ad": false
+    },
+    "rating": {
+     "rate": 83.33333333333331,
+     "count": 12
+    },
+    "sizes": [
+     {
+      "id": 100175,
+      "title": "S"
+     },
+     {
+      "id": 100174,
+      "title": "XL"
+     },
+     {
+      "id": 100177,
+      "title": "L"
+     },
+     {
+      "id": 100176,
+      "title": "M"
+     }
+    ],
+    "status": "marketable",
+    "test_title_en": "",
+    "test_title_fa": "",
+    "title_en": "",
+    "title_fa": "کراپ تی‌شرت آستین کوتاه زنانه الوج مدل BLN",
+    "url": {
+     "base": null,
+     "uri": "/product/21533190-کراپ-تیشرت-آستین-کوتاه-زنانه-الوج-مدل-bln",
+     "params": [
+      {
+       "product_id": 21533190,
+       "variant_id": 78778034
+      }
+     ]
+    },
+    "variants": [
+     {
+      "id": 78778034,
+      "title": "کراپ تی‌شرت آستین کوتاه زنانه الوج مدل BLN | مشکی | S | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 0,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 5,
+      "marketable_stock": 1,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 78778034,
+         "id": 1,
+         "title": "مشکی",
+         "code": "#000000",
+         "hex_code": "#000000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 78778034,
+         "id": 100175,
+         "title": "S",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 1,
+       "title": "مشکی",
+       "code": "#000000",
+       "hex_code": "#000000"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 3200000,
+       "rrp_price": 8700000,
+       "order_limit": 5,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "marketable_stock": 1,
+       "discount_percent": 63,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 63,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 78778038,
+      "title": "کراپ تی‌شرت آستین کوتاه زنانه الوج مدل BLN | مشکی | XL | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 100,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 100,
+      "marketable_stock": 3,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 78778038,
+         "id": 1,
+         "title": "مشکی",
+         "code": "#000000",
+         "hex_code": "#000000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 78778038,
+         "id": 100174,
+         "title": "XL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 1,
+       "title": "مشکی",
+       "code": "#000000",
+       "hex_code": "#000000"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 8700000,
+       "rrp_price": 8700000,
+       "order_limit": 100,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "marketable_stock": 3,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 78778037,
+      "title": "کراپ تی‌شرت آستین کوتاه زنانه الوج مدل BLN | مشکی | L | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 90,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 100,
+      "marketable_stock": 8,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 78778037,
+         "id": 1,
+         "title": "مشکی",
+         "code": "#000000",
+         "hex_code": "#000000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 78778037,
+         "id": 100177,
+         "title": "L",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 1,
+       "title": "مشکی",
+       "code": "#000000",
+       "hex_code": "#000000"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 8700000,
+       "rrp_price": 8700000,
+       "order_limit": 100,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 78778035,
+      "title": "کراپ تی‌شرت آستین کوتاه زنانه الوج مدل BLN | مشکی | M | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 68,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 100,
+      "marketable_stock": 8,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 78778035,
+         "id": 1,
+         "title": "مشکی",
+         "code": "#000000",
+         "hex_code": "#000000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 78778035,
+         "id": 100176,
+         "title": "M",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 1,
+       "title": "مشکی",
+       "code": "#000000",
+       "hex_code": "#000000"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 8700000,
+       "rrp_price": 8700000,
+       "order_limit": 100,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     }
+    ]
+   },
+   {
+    "badges": [],
+    "colors": [
+     {
+      "id": 396,
+      "title": "ارتشی سبز",
+      "code": "#4B5320",
+      "hex_code": "#4B5320"
+     }
+    ],
+    "data_layer": {
+     "brand": "سون پون",
+     "category": "[AP,تی‌شرت و پولوشرت زنانه]",
+     "metric6": 0,
+     "dimension2": 0,
+     "dimension6": 0,
+     "dimension7": "none",
+     "dimension9": null,
+     "dimension11": 0,
+     "dimension20": "marketable",
+     "item_category2": "مد و پوشاک",
+     "item_category3": "زنانه",
+     "item_category4": "لباس زنانه",
+     "item_category5": "تی شرت زنانه"
+    },
+    "default_variant": {
+     "id": 38773307,
+     "title": "تی شرت آستین کوتاه زنانه سون پون مدل 2391198-49 | M | ارتشی سبز | گارانتی اصالت و سلامت فیزیکی کالا",
+     "status": "marketable",
+     "rate": 0,
+     "lead_time": 0,
+     "rank": 0,
+     "order_limit": 5,
+     "marketable_stock": 1,
+     "themes": [
+      {
+       "value": {
+        "variant_id": 38773307,
+        "id": 100176,
+        "title": "M",
+        "nature": "alpha"
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": true
+      },
+      {
+       "value": {
+        "variant_id": 38773307,
+        "id": 396,
+        "title": "ارتشی سبز",
+        "code": "#4B5320",
+        "hex_code": "#4B5320",
+        "nature": "color"
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": false
+      }
+     ],
+     "color": {
+      "id": 396,
+      "title": "ارتشی سبز",
+      "code": "#4B5320",
+      "hex_code": "#4B5320"
+     },
+     "seller": {
+      "id": 239368,
+      "title": "رابین هود",
+      "code": "AV75G",
+      "url": "/seller/AV75G/",
+      "rating": {
+       "total_rate": 82,
+       "total_count": 3104,
+       "commitment": 0,
+       "no_return": 0,
+       "on_time_shipping": 0
+      },
+      "properties": {
+       "is_trusted": true,
+       "is_official": false,
+       "is_roosta": false,
+       "is_new": false
+      },
+      "stars": null,
+      "grade": {
+       "label": "بدون عملکرد",
+       "color": "#81858B"
+      },
+      "registration_date": "",
+      "logo": null
+     },
+     "price": {
+      "selling_price": 4600000,
+      "rrp_price": 4600000,
+      "order_limit": 5,
+      "is_incredible": false,
+      "is_promotion": false,
+      "is_locked_for_digiplus": false,
+      "bnpl_active": false,
+      "marketable_stock": 1,
+      "min_order_limit": 1
+     },
+     "has_importer_price": false,
+     "manufacture_price_not_exist": false,
+     "has_best_price_in_last_month": false
+    },
+    "gallery_variant_type": "vertical",
+    "has_quick_view": false,
+    "id": 8965628,
+    "images": {
+     "main": {
+      "url": [
+       "https://dkstatics-public.digikala.com/digikala-products/191acf23ba77d44f1f697cca1e5e563d61ceb18f_1657539569.jpg"
+      ],
+      "webp_url": [
+       ""
+      ]
+     }
+    },
+    "product_type": "product",
+    "properties": {
+     "is_fast_shipping": false,
+     "is_ship_by_seller": false,
+     "free_shipping_badge": false,
+     "is_multi_warehouse": false,
+     "is_fake": false,
+     "has_gift": false,
+     "min_price_in_last_month": null,
+     "is_non_inventory": false,
+     "is_outlet": false,
+     "is_jet_eligible": false,
+     "is_ad": false
+    },
+    "sizes": [
+     {
+      "id": 100176,
+      "title": "M"
+     }
+    ],
+    "status": "marketable",
+    "test_title_en": "",
+    "test_title_fa": "",
+    "title_en": "Seven Poon 2391198-49 Short Sleeve T-Shirt For Women",
+    "title_fa": "تی شرت آستین کوتاه زنانه سون پون مدل 2391198-49",
+    "url": {
+     "base": null,
+     "uri": "/product/8965628-ha102-تی-شرت-آستین-کوتاه-زنانه-سون-پون-مدل-2391198-49",
+     "params": [
+      {
+       "product_id": 8965628,
+       "variant_id": 38773307
+      }
+     ]
+    },
+    "variants": [
+     {
+      "id": 38773307,
+      "title": "تی شرت آستین کوتاه زنانه سون پون مدل 2391198-49 | M | ارتشی سبز | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 0,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 5,
+      "marketable_stock": 1,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 38773307,
+         "id": 100176,
+         "title": "M",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 38773307,
+         "id": 396,
+         "title": "ارتشی سبز",
+         "code": "#4B5320",
+         "hex_code": "#4B5320",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 396,
+       "title": "ارتشی سبز",
+       "code": "#4B5320",
+       "hex_code": "#4B5320"
+      },
+      "seller": {
+       "id": 239368,
+       "title": "رابین هود",
+       "code": "AV75G",
+       "url": "/seller/AV75G/",
+       "rating": {
+        "total_rate": 82,
+        "total_count": 3104,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 4600000,
+       "rrp_price": 4600000,
+       "order_limit": 5,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "marketable_stock": 1,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     }
+    ]
+   },
+   {
+    "badges": [],
+    "colors": [
+     {
+      "id": 1,
+      "title": "مشکی",
+      "code": "#000000",
+      "hex_code": "#000000"
+     }
+    ],
+    "data_layer": {
+     "brand": "اسمارا",
+     "category": "[AP,تی‌شرت و پولوشرت زنانه]",
+     "metric6": 1,
+     "dimension2": 0,
+     "dimension6": 0,
+     "dimension7": "none",
+     "dimension9": 2,
+     "dimension11": 0,
+     "dimension20": "marketable",
+     "item_category2": "مد و پوشاک",
+     "item_category3": "زنانه",
+     "item_category4": "لباس زنانه",
+     "item_category5": "تی شرت زنانه"
+    },
+    "default_variant": {
+     "id": 79516492,
+     "title": "تی شرت آستین کوتاه زنانه اسمارا کد 049 | 36-38 | مشکی | گارانتی اصالت و سلامت فیزیکی کالا",
+     "status": "marketable",
+     "rate": 0,
+     "lead_time": 0,
+     "rank": 0,
+     "order_limit": 5,
+     "marketable_stock": 1,
+     "themes": [
+      {
+       "value": {
+        "variant_id": 79516492,
+        "id": 100545,
+        "title": "36-38",
+        "nature": "numeral_range"
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": true
+      },
+      {
+       "value": {
+        "variant_id": 79516492,
+        "id": 1,
+        "title": "مشکی",
+        "code": "#000000",
+        "hex_code": "#000000",
+        "nature": "color"
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": false
+      }
+     ],
+     "color": {
+      "id": 1,
+      "title": "مشکی",
+      "code": "#000000",
+      "hex_code": "#000000"
+     },
+     "seller": {
+      "id": 37854,
+      "title": "مهدان شاپ",
+      "code": "6YEUU",
+      "url": "/seller/6YEUU/",
+      "rating": {
+       "total_rate": 81,
+       "total_count": 69,
+       "commitment": 0,
+       "no_return": 0,
+       "on_time_shipping": 0
+      },
+      "properties": {
+       "is_trusted": false,
+       "is_official": false,
+       "is_roosta": false,
+       "is_new": false
+      },
+      "stars": null,
+      "grade": {
+       "label": "بدون عملکرد",
+       "color": "#81858B"
+      },
+      "registration_date": "",
+      "logo": null
+     },
+     "price": {
+      "selling_price": 5800000,
+      "rrp_price": 5800000,
+      "order_limit": 5,
+      "is_incredible": false,
+      "is_promotion": false,
+      "is_locked_for_digiplus": false,
+      "bnpl_active": false,
+      "marketable_stock": 1,
+      "min_order_limit": 1
+     },
+     "has_importer_price": false,
+     "manufacture_price_not_exist": false,
+     "has_best_price_in_last_month": false
+    },
+    "gallery_variant_type": "vertical",
+    "has_quick_view": false,
+    "id": 18143140,
+    "images": {
+     "main": {
+      "url": [
+       "https://dkstatics-public.digikala.com/digikala-products/01f22bd02b4c6b19826c92af507f385c9dbffef4_1737982185.jpg"
+      ],
+      "webp_url": [
+       ""
+      ]
+     }
+    },
+    "product_type": "product",
+    "properties": {
+     "is_fast_shipping": false,
+     "is_ship_by_seller": true,
+     "free_shipping_badge": false,
+     "is_multi_warehouse": false,
+     "is_fake": false,
+     "has_gift": false,
+     "min_price_in_last_month": null,
+     "is_non_inventory": false,
+     "is_outlet": false,
+     "is_jet_eligible": false,
+     "is_ad": false
+    },
+    "rating": {
+     "rate": 40,
+     "count": 1
+    },
+    "sizes": [
+     {
+      "id": 100545,
+      "title": "36-38"
+     }
+    ],
+    "status": "marketable",
+    "test_title_en": "",
+    "test_title_fa": "",
+    "title_en": "",
+    "title_fa": "تی شرت آستین کوتاه زنانه اسمارا کد 049",
+    "url": {
+     "base": null,
+     "uri": "/product/18143140-تی-شرت-آستین-کوتاه-زنانه-اسمارا-کد-049",
+     "params": [
+      {
+       "product_id": 18143140,
+       "variant_id": 79516492
+      }
+     ]
+    },
+    "variants": [
+     {
+      "id": 79516492,
+      "title": "تی شرت آستین کوتاه زنانه اسمارا کد 049 | 36-38 | مشکی | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 0,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 5,
+      "marketable_stock": 1,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 79516492,
+         "id": 100545,
+         "title": "36-38",
+         "nature": "numeral_range"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 79516492,
+         "id": 1,
+         "title": "مشکی",
+         "code": "#000000",
+         "hex_code": "#000000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 1,
+       "title": "مشکی",
+       "code": "#000000",
+       "hex_code": "#000000"
+      },
+      "seller": {
+       "id": 37854,
+       "title": "مهدان شاپ",
+       "code": "6YEUU",
+       "url": "/seller/6YEUU/",
+       "rating": {
+        "total_rate": 81,
+        "total_count": 69,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 5800000,
+       "rrp_price": 5800000,
+       "order_limit": 5,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "marketable_stock": 1,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     }
+    ]
+   }
+  ],
+  "query_attributes": {
+   "category_ids": [
+    9347
+   ]
+  },
+  "quick_filters": [
+   {
+    "label": "آستین بلند",
+    "type": "single",
+    "filter_name": "attribute_50",
+    "filter_value": 114
+   },
+   {
+    "label": "آستین بلند",
+    "type": "single",
+    "filter_name": "attribute_8661",
+    "filter_value": 43464
+   },
+   {
+    "label": "آستین سه ربع",
+    "type": "single",
+    "filter_name": "attribute_50",
+    "filter_value": 117
+   },
+   {
+    "label": "تنخور آزاد",
+    "type": "single",
+    "filter_name": "attribute_231",
+    "filter_value": 51
+   },
+   {
+    "label": "تنخور جذب",
+    "type": "single",
+    "filter_name": "attribute_231",
+    "filter_value": 53
+   },
+   {
+    "label": "سفید",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 5
+   },
+   {
+    "label": "مشکی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 8
+   },
+   {
+    "label": "آبی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 12
+   },
+   {
+    "label": "قهوه‌‌ای",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 10
+   },
+   {
+    "label": "قرمز",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 9
+   },
+   {
+    "label": "صورتی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 1
+   },
+   {
+    "label": "طوسی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 7
+   },
+   {
+    "label": "سبز",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 11
+   },
+   {
+    "label": "بنفش",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 2
+   },
+   {
+    "label": "زرد",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 3
+   },
+   {
+    "label": "نارنجی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 4
+   },
+   {
+    "label": "نقره‌ای",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 6
+   }
+  ],
+  "result_type": "no_change",
+  "search_method": "default",
+  "search_phase": -10,
+  "sort": {
+   "default": 20
+  },
+  "sort_options": [
+   {
+    "id": 22,
+    "title_fa": "مرتبط‌ترین"
+   },
+   {
+    "id": 4,
+    "title_fa": "پربازدیدترین"
+   },
+   {
+    "id": 1,
+    "title_fa": "جدیدترین"
+   },
+   {
+    "id": 7,
+    "title_fa": "پرفروش‌ترین"
+   },
+   {
+    "id": 20,
+    "title_fa": "قیمت از کم به زیاد"
+   },
+   {
+    "id": 21,
+    "title_fa": "قیمت از زیاد به کم"
+   },
+   {
+    "id": 25,
+    "title_fa": "سریع‌ترین ارسال"
+   },
+   {
+    "id": 27,
+    "title_fa": "پیشنهاد خریداران"
+   },
+   {
+    "id": 29,
+    "title_fa": "منتخب"
+   }
+  ],
+  "text_lenz_eligibility": "meh",
+  "total_hits": 550
+ },
+ "status": 200
+}

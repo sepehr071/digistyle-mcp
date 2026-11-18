@@ -1,0 +1,2418 @@
+{
+ "data": {
+  "filters": {
+   "price": {
+    "title": "محدوده قیمت",
+    "options": {
+     "min": 5800000,
+     "max": 499700000
+    },
+    "type": "slider"
+   },
+   "brands": {
+    "type": "checkbox",
+    "title": "برند",
+    "top_options": [
+     {
+      "id": 6950,
+      "code": "sw-1991",
+      "title_fa": "نوزده نودیک",
+      "title_en": "1991",
+      "url": {
+       "base": null,
+       "uri": "/brand/sw-1991/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/55cf818946775d76c2167be0ade10737188fc9a8_1793772764.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 17527,
+      "code": "technic07",
+      "title_fa": "تکنیک+07",
+      "title_en": "Technic+07",
+      "url": {
+       "base": null,
+       "uri": "/brand/technic07/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/29819cf01af69d9fd379ca9afc35944a7a7dbffc_1792310886.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 1933,
+      "code": "nike",
+      "title_fa": "نایکی",
+      "title_en": "Nike",
+      "url": {
+       "base": null,
+       "uri": "/brand/nike/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/37116214d81bcb5d68dd0cf9548fa0974a4dd9a0_1620822000.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 1291,
+      "code": "adidas",
+      "title_fa": "آدیداس",
+      "title_en": "Adidas",
+      "url": {
+       "base": null,
+       "uri": "/brand/adidas/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/21b62a2b3489b7a452d393cde3d1e22a78a24aa7_1620821635.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 10459,
+      "code": "dicamp",
+      "title_fa": "دیکمپ",
+      "title_en": "Dicamp",
+      "url": {
+       "base": null,
+       "uri": "/brand/dicamp/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/9ccbfb09f4bde7c69114cd5be8e4ea2e7805a55c_1792307610.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     }
+    ],
+    "options": [
+     {
+      "id": 1291,
+      "code": "adidas",
+      "title_fa": "آدیداس",
+      "title_en": "Adidas",
+      "url": {
+       "base": null,
+       "uri": "/brand/adidas/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/21b62a2b3489b7a452d393cde3d1e22a78a24aa7_1620821635.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 8403,
+      "code": "rns",
+      "title_fa": "آر اِن اِس",
+      "title_en": "RNS",
+      "url": {
+       "base": null,
+       "uri": "/brand/rns/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/5249.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 13785,
+      "code": "star-wars",
+      "title_fa": "استار وارز",
+      "title_en": "Star Wars",
+      "url": {
+       "base": null,
+       "uri": "/brand/star-wars/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/100010838.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 7151,
+      "code": "esmara",
+      "title_fa": "اسمارا",
+      "title_en": "Esmara",
+      "url": {
+       "base": null,
+       "uri": "/brand/esmara/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/69c8f11fdac7ff6adb49ca108df04392a6d1228e_1792323367.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     },
+     {
+      "id": 21808,
+      "code": "aspest",
+      "title_fa": "اسپست",
+      "title_en": "Aspest",
+      "url": {
+       "base": null,
+       "uri": "/brand/aspest/"
+      },
+      "visibility": true,
+      "logo": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-brands/45aa7f9d1596de3a544c7d6a1c37eb4b3fecb100_1792312729.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "is_premium": false
+     }
+    ]
+   },
+   "color_palettes": {
+    "type": "checkbox",
+    "title": "رنگ",
+    "options": [
+     {
+      "id": 12,
+      "title": "آبی",
+      "hex_code": "#3498db",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/53cd2901b76a741e9011ace2659b9f4c0e52f578_1670664279.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "آبی - سرمه‌ای - فیروزه ای - سبز آبی - نقره‌ای آبی - آبی تیره - آبی روشن - سفید یخی - آبی متالیک - سرمه‌ای روشن - سرمه‌ای تیره -  آبی نفتی - آبی یخی - آبی کدر - آبی رویال - لاجوردی - آبی کاربنی - آبی نیلی - آبی آسمانی - آبی کم‌رنگ - آبی دودی"
+     },
+     {
+      "id": 2,
+      "title": "بنفش",
+      "hex_code": "#9b59b6",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/f275e126421d91ecdaaf0aa80310d3ac39510346_1670664302.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "بنفش - یاسی - چند رنگ - بنفش تیره - صورتی خاکستری - بنفش روشن - ارغوانی - ارغوانی روشن - بادمجانی"
+     },
+     {
+      "id": 3,
+      "title": "زرد",
+      "hex_code": "#f1c40f",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/d019e79e841a500ebd4ce2b91ba11d28921a88b0_1670664216.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "زرد، طلایی - زرد خردلی - بژ - زرد کم‌رنگ - آفتابی - لیمویی طلایی - طلایی مات - زرد نباتی - زرد لیمویی - عسلی - زرد فسفری - بژ براق - طلایی براق - اخرایی - گندمی - بلوند روشن - نخودی - زرد فلورسنت - زردآلویی"
+     },
+     {
+      "id": 11,
+      "title": "سبز",
+      "hex_code": "#12b844",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/e93523d755acd1851052687b30f231edea4cb9bc_1670664245.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "سبز - سبز فسفری - یشمی - زیتونی - سبز آبی - سبز روشن - سبز تیره - سبز کله غازی - سبز سدری - سبز یشمی - سبز کاهویی - سبز مغز پسته‌ای - سبز دریایی - سبز فلورسنت - ارتشی زیتونی - سبز نعنایی"
+     },
+     {
+      "id": 5,
+      "title": "سفید",
+      "hex_code": "#ffffff",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/a16c557a142f56435d8501e7fbf1d2c0cf93a615_1670664037.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "سفید - کرم - سفید صدفی - بی‌رنگ - بی‌رنگ مات - بی‌رنگ شفاف - مهتابی - سفید یخی - سفید چرمی - شیری - هفت رنگ - استخوانی - وانیلی - کرم روشن - سفید براق - سفید متالیک"
+     },
+     {
+      "id": 1,
+      "title": "صورتی",
+      "hex_code": "#ff69b4",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/82bb84f17b73bc116114c3d72d9fadaa6da3ea49_1670664327.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "صورتی - پوست پیازی - گل بهی - صورتی تیره - رز گلد - کالباسی - صورتی خاکستری - صورتی روشن - صورتی فلورسنت - صورتی مرجانی"
+     },
+     {
+      "id": 7,
+      "title": "طوسی",
+      "hex_code": "#7f8c8d",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/e3f34aeca4096bfb699fd8e1d19a632221599b8e_1670663944.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "طوسی - خاکستری - نقره‌ای - نقره‌ای آبی - طوسی - مات - براق - استیل - کروم - نقره‌ای مات - طوسی روشن - کروم مات - دودی - طوسی فیلی - طوسی تیره - دودی متالیک - آبی طوسی - ارتشی طوسی"
+     },
+     {
+      "id": 9,
+      "title": "قرمز",
+      "hex_code": "#e74c3c",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/cb99d178c29f70ecd58b14390f685e2c5cf2b152_1670664354.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "قرمز - زرشکی - پوست پیازی - مسی - سرخابی - گیلاسی - قرمز مات - قرمز آجری - عنابی - قرمز روشن - مارون - قرمز شرابی - یاقوتی - جگری - آلبالویی - گوجه ای - قرمز تیره - سرخ مخملی"
+     },
+     {
+      "id": 10,
+      "title": "قهوه‌ای",
+      "hex_code": "#8b4513",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/3a2570fe27f72878c178bd68525708cf501b8be9_1670664076.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "قهوه‌ای - کرم - نسکافه‌ای - ماهگونی - شکلاتی - قهوه‌ای تیره - قهوه‌ای روشن - برنز - طلایی مات - کرم تیره - کردوبایی - برنجی - عنابی - قهوه‌ای شتری - خاکی - گردویی - قهوه‌ای روشن مات - قهوه‌ای روشن براق - فندقی - خودرنگ روشن - خودرنگ تیره - ارتشی خاکی"
+     },
+     {
+      "id": 8,
+      "title": "مشکی",
+      "hex_code": "#000000",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/6b73478aca3fed39aafd08b3406536b5a1fcfbb1_1670663838.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "مشکی - نوک مدادی - شکلاتی - قهوه‌ای تیره - مشکی مات - مشکی براق - ذغالی - سرمه‌ای تیره - دودی متالیک"
+     },
+     {
+      "id": 4,
+      "title": "نارنجی",
+      "hex_code": "#e67e22",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/7da19e7628cff9a9eb242fa7f51cc4a529630a1a_1670664186.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "نارنجی - نارنجی کم‌رنگ - قرمز آجری - عسلی - مرجانی - کهربایی - هلویی - نارنجی فسفری - نارنجی فلورسنت"
+     },
+     {
+      "id": 6,
+      "title": "نقره‌ای",
+      "hex_code": "#c0c0c0",
+      "image": {
+       "storage_ids": [],
+       "url": [
+        "https://dkstatics-public.digikala.com/digikala-static/cc3c51cc8a21764038bbcf381f538f40bc48e6a8_1670663991.png"
+       ],
+       "thumbnail_url": null,
+       "temporary_id": null,
+       "webp_url": null
+      },
+      "description": "نقره‌ای - سفید صدفی - نقره‌ای آبی - طوسی - براق - مهتابی - سفید یخی - استیل - نقره‌ای چرم - تیتانیومی - کروم - نقره‌ای مات - کروم مات - پلاتینیوم - آلومینیومی - استیل مات - استیل براق - استیل طلایی"
+     }
+    ]
+   },
+   "attribute_50": {
+    "title": "نوع آستین",
+    "options": [
+     {
+      "id": 114,
+      "title_fa": "آستین بلند",
+      "title_en": "long-sleeved"
+     },
+     {
+      "id": 115,
+      "title_fa": "آستین تا روی شانه",
+      "title_en": "shoulder-length-sleeves"
+     },
+     {
+      "id": 117,
+      "title_fa": "آستین سه ربع",
+      "title_en": "Three-quarter-sleeves"
+     },
+     {
+      "id": 118,
+      "title_fa": "آستین کوتاه",
+      "title_en": "Short-sleeved"
+     }
+    ],
+    "top_options": [
+     {
+      "id": 114,
+      "title_fa": "آستین بلند",
+      "title_en": "long-sleeved"
+     },
+     {
+      "id": 118,
+      "title_fa": "آستین کوتاه",
+      "title_en": "Short-sleeved"
+     },
+     {
+      "id": 117,
+      "title_fa": "آستین سه ربع",
+      "title_en": "Three-quarter-sleeves"
+     },
+     {
+      "id": 115,
+      "title_fa": "آستین تا روی شانه",
+      "title_en": "shoulder-length-sleeves"
+     }
+    ],
+    "type": "checkbox"
+   },
+   "has_ready_to_shipment": {
+    "type": "switch",
+    "title": "فقط کالاهای موجود در انبار",
+    "options": [
+     {
+      "id": 0,
+      "title": "کالاهای آماده ارسال"
+     }
+    ]
+   },
+   "has_ship_by_seller": {
+    "type": "switch",
+    "title": "ارسال فروشنده",
+    "description": "با خرید از کالاهایی با امکان ارسال توسط فروشنده می‌توانید سفارش خود را زودتر تحویل بگیرید",
+    "icon": "https://dkstatics-public.digikala.com/digikala-static/7fd084adca1efff834cdd871cb97a0307c0f8c51_1700488931.svg",
+    "options": [
+     {
+      "id": 0,
+      "title": "فقط در شهر تهران"
+     }
+    ]
+   },
+   "seller_types": {
+    "type": "checkbox",
+    "title": "نوع فروشنده",
+    "options": [
+     {
+      "id": "official",
+      "title": "فروشنده رسمی"
+     },
+     {
+      "id": "trusted",
+      "title": "فروشنده برگزیده"
+     },
+     {
+      "id": "digikala",
+      "title": "دیجی‌کالا"
+     },
+     {
+      "id": "roosta",
+      "title": "کسب و کارهای بومی"
+     }
+    ]
+   },
+   "categories": {
+    "title": "دسته‌بندی",
+    "options": [
+     {
+      "id": 9444,
+      "title_fa": "تاپ و تی شرت راحتی مردانه",
+      "title_en": "MEN Homewear Tops & T-shirts",
+      "code": "men-homewear-tops-t-shirts"
+     },
+     {
+      "id": 9298,
+      "title_fa": "تاپ و تی‌شرت راحتی زنانه",
+      "title_en": "WOMEN Homewear Tops & T-shirts",
+      "code": "women-homewear-tops-and-t-shirts"
+     },
+     {
+      "id": 9347,
+      "title_fa": "تی شرت زنانه",
+      "title_en": "WOMEN TEE-SHIRTS",
+      "code": "women-tee-shirts"
+     }
+    ]
+   },
+   "is_outlet": {
+    "type": "switch",
+    "title": "اوتلت",
+    "options": null
+   },
+   "shipment_methods": {
+    "type": "switch-box",
+    "title": "تحویل سریع",
+    "icon": "https://dkstatics-public.digikala.com/digikala-static/262c38c0e4990522af759e0016a287508bbc84f6_1684761217.png",
+    "options": [
+     {
+      "type": "checkbox",
+      "title": "تحویل سریع امروز",
+      "icon": "https://dkstatics-public.digikala.com/digikala-static/262c38c0e4990522af759e0016a287508bbc84f6_1684761217.png",
+      "options": {
+       "id": 0,
+       "title_fa": "تحویل سریع امروز",
+       "description_fa": "تحویل توسط دیجی‌کالا",
+       "delivery_day_offset": 0
+      },
+      "key": "has_jet_delivery",
+      "active": false
+     },
+     {
+      "type": "checkbox",
+      "title": "ارسال سریع فروشنده",
+      "icon": "https://dkstatics-public.digikala.com/digikala-static/0b2e434082086772757c1e33fce4e64e656a3a52_1752057530.png",
+      "options": {
+       "id": 0,
+       "title_fa": "ارسال سریع فروشنده",
+       "description_fa": "تحویل امروز",
+       "delivery_day_offset": 0
+      },
+      "key": "jet_sbs_city_ids",
+      "active": false
+     }
+    ]
+   }
+  },
+  "pager": {
+   "current_page": 1,
+   "total_pages": 42,
+   "total_items": 825
+  },
+  "products": [
+   {
+    "badges": [],
+    "colors": [
+     {
+      "id": 3,
+      "title": "قرمز",
+      "code": "#FF0000",
+      "hex_code": "#FF0000"
+     },
+     {
+      "id": 80,
+      "title": "سرمه ای روشن",
+      "code": "#0048a5",
+      "hex_code": "#0048a5"
+     },
+     {
+      "id": 1,
+      "title": "مشکی",
+      "code": "#000000",
+      "hex_code": "#000000"
+     },
+     {
+      "id": 2,
+      "title": "سفید",
+      "code": "#FFFFFF",
+      "hex_code": "#FFFFFF"
+     }
+    ],
+    "data_layer": {
+     "brand": "تکنیک+07",
+     "category": "[AP,پوشاک ورزشی مردانه]",
+     "metric6": 229,
+     "dimension2": 68,
+     "dimension6": 0,
+     "dimension7": "special-offer",
+     "dimension9": 4.4,
+     "dimension11": 0,
+     "dimension20": "marketable",
+     "item_category2": "مد و پوشاک",
+     "item_category3": "مردانه",
+     "item_category4": "لباس مردانه",
+     "item_category5": "لباس ورزشی مردانه"
+    },
+    "default_variant": {
+     "id": 76546037,
+     "title": "تی شرت  آستین کوتاه ورزشی مردانه تکنیک+07 مدل TS-150-SO | قرمز | L | گارانتی اصالت و سلامت فیزیکی کالا",
+     "status": "marketable",
+     "rate": 100,
+     "lead_time": 0,
+     "rank": 0,
+     "order_limit": 3,
+     "marketable_stock": 17,
+     "themes": [
+      {
+       "value": {
+        "variant_id": 76546037,
+        "id": 3,
+        "title": "قرمز",
+        "code": "#FF0000",
+        "hex_code": "#FF0000",
+        "nature": "color"
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": true
+      },
+      {
+       "value": {
+        "variant_id": 76546037,
+        "id": 100177,
+        "title": "L",
+        "nature": "alpha"
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": false
+      }
+     ],
+     "color": {
+      "id": 3,
+      "title": "قرمز",
+      "code": "#FF0000",
+      "hex_code": "#FF0000"
+     },
+     "seller": {
+      "id": 1761430,
+      "title": "تکنیک پلاس صفر هفت",
+      "code": "H9ARV",
+      "url": "/seller/H9ARV/",
+      "rating": {
+       "total_rate": 86,
+       "total_count": 1038,
+       "commitment": 0,
+       "no_return": 0,
+       "on_time_shipping": 0
+      },
+      "properties": {
+       "is_trusted": true,
+       "is_official": false,
+       "is_roosta": false,
+       "is_new": false
+      },
+      "stars": null,
+      "grade": {
+       "label": "بدون عملکرد",
+       "color": "#81858B"
+      },
+      "registration_date": "",
+      "logo": null
+     },
+     "price": {
+      "selling_price": 11550000,
+      "rrp_price": 36500000,
+      "order_limit": 3,
+      "is_incredible": false,
+      "is_promotion": true,
+      "is_locked_for_digiplus": false,
+      "bnpl_active": false,
+      "discount_percent": 68,
+      "min_order_limit": 1,
+      "badge": {
+       "title": "فروش ویژه"
+      },
+      "discount": 68,
+      "is_selling_and_sales": true,
+      "show_discount_badge": true
+     },
+     "has_importer_price": false,
+     "manufacture_price_not_exist": false,
+     "has_best_price_in_last_month": false
+    },
+    "gallery_variant_type": "vertical",
+    "has_quick_view": false,
+    "id": 9623454,
+    "images": {
+     "main": {
+      "url": [
+       "https://dkstatics-public.digikala.com/digikala-products/fb1207bb0124ddc4c326842d3ebb3124ce50456a_1665416474.jpg"
+      ],
+      "webp_url": [
+       ""
+      ]
+     }
+    },
+    "product_type": "product",
+    "properties": {
+     "is_fast_shipping": false,
+     "is_ship_by_seller": false,
+     "free_shipping_badge": false,
+     "is_multi_warehouse": false,
+     "is_fake": false,
+     "has_gift": false,
+     "min_price_in_last_month": null,
+     "is_non_inventory": false,
+     "is_outlet": false,
+     "is_jet_eligible": true,
+     "is_ad": false
+    },
+    "rating": {
+     "rate": 86.37554585152839,
+     "count": 229
+    },
+    "sizes": [
+     {
+      "id": 100177,
+      "title": "L"
+     },
+     {
+      "id": 100172,
+      "title": "XXL"
+     },
+     {
+      "id": 100174,
+      "title": "XL"
+     },
+     {
+      "id": 100176,
+      "title": "M"
+     },
+     {
+      "id": 100187,
+      "title": "4XL"
+     },
+     {
+      "id": 100185,
+      "title": "5XL"
+     },
+     {
+      "id": 100183,
+      "title": "6XL"
+     },
+     {
+      "id": 100189,
+      "title": "3XL"
+     }
+    ],
+    "status": "marketable",
+    "test_title_en": "",
+    "test_title_fa": "تی شرت ورزشی مردانه تکنیک+07 مدل TS-150-SO با جنس فیلامنت، آستین کوتاه، یقه گرد، قد روی باسن، تنخور معمولی و قابلیت خشک شدن سریع",
+    "title_en": "",
+    "title_fa": "تی شرت  آستین کوتاه ورزشی مردانه تکنیک+07 مدل TS-150-SO",
+    "url": {
+     "base": null,
+     "uri": "/product/9623454-تی-شرت-آستین-کوتاه-ورزشی-مردانه-تکنیک07-مدل-ts-150-so",
+     "params": [
+      {
+       "product_id": 9623454,
+       "variant_id": 76546037
+      }
+     ]
+    },
+    "variants": [
+     {
+      "id": 76546037,
+      "title": "تی شرت  آستین کوتاه ورزشی مردانه تکنیک+07 مدل TS-150-SO | قرمز | L | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 100,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 3,
+      "marketable_stock": 17,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 76546037,
+         "id": 3,
+         "title": "قرمز",
+         "code": "#FF0000",
+         "hex_code": "#FF0000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 76546037,
+         "id": 100177,
+         "title": "L",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 3,
+       "title": "قرمز",
+       "code": "#FF0000",
+       "hex_code": "#FF0000"
+      },
+      "seller": {
+       "id": 1761430,
+       "title": "تکنیک پلاس صفر هفت",
+       "code": "H9ARV",
+       "url": "/seller/H9ARV/",
+       "rating": {
+        "total_rate": 86,
+        "total_count": 1038,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 11550000,
+       "rrp_price": 36500000,
+       "order_limit": 3,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 68,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 68,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 69964422,
+      "title": "تی شرت  آستین کوتاه ورزشی مردانه تکنیک+07 مدل TS-150-SO | XXL | سرمه ای روشن | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 93.4,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 3,
+      "marketable_stock": 11,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 69964422,
+         "id": 100172,
+         "title": "XXL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 69964422,
+         "id": 80,
+         "title": "سرمه ای روشن",
+         "code": "#0048a5",
+         "hex_code": "#0048a5",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 80,
+       "title": "سرمه ای روشن",
+       "code": "#0048a5",
+       "hex_code": "#0048a5"
+      },
+      "seller": {
+       "id": 1761430,
+       "title": "تکنیک پلاس صفر هفت",
+       "code": "H9ARV",
+       "url": "/seller/H9ARV/",
+       "rating": {
+        "total_rate": 86,
+        "total_count": 1038,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 11550000,
+       "rrp_price": 36500000,
+       "order_limit": 3,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 68,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 68,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 76546049,
+      "title": "تی شرت  آستین کوتاه ورزشی مردانه تکنیک+07 مدل TS-150-SO | قرمز | XL | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 20,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 3,
+      "marketable_stock": 17,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 76546049,
+         "id": 3,
+         "title": "قرمز",
+         "code": "#FF0000",
+         "hex_code": "#FF0000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 76546049,
+         "id": 100174,
+         "title": "XL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 3,
+       "title": "قرمز",
+       "code": "#FF0000",
+       "hex_code": "#FF0000"
+      },
+      "seller": {
+       "id": 1761430,
+       "title": "تکنیک پلاس صفر هفت",
+       "code": "H9ARV",
+       "url": "/seller/H9ARV/",
+       "rating": {
+        "total_rate": 86,
+        "total_count": 1038,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 11550000,
+       "rrp_price": 36500000,
+       "order_limit": 3,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 68,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 68,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 70064104,
+      "title": "تی شرت  آستین کوتاه ورزشی مردانه تکنیک+07 مدل TS-150-SO | M | مشکی | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 100,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 3,
+      "marketable_stock": 17,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 70064104,
+         "id": 100176,
+         "title": "M",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 70064104,
+         "id": 1,
+         "title": "مشکی",
+         "code": "#000000",
+         "hex_code": "#000000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 1,
+       "title": "مشکی",
+       "code": "#000000",
+       "hex_code": "#000000"
+      },
+      "seller": {
+       "id": 1761430,
+       "title": "تکنیک پلاس صفر هفت",
+       "code": "H9ARV",
+       "url": "/seller/H9ARV/",
+       "rating": {
+        "total_rate": 86,
+        "total_count": 1038,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 11550000,
+       "rrp_price": 36500000,
+       "order_limit": 3,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 68,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 68,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     }
+    ]
+   },
+   {
+    "badges": [],
+    "colors": [
+     {
+      "id": 9,
+      "title": "سرمه ای",
+      "code": "#002171",
+      "hex_code": "#002171"
+     },
+     {
+      "id": 6,
+      "title": "سبز",
+      "code": "#008000",
+      "hex_code": "#008000"
+     },
+     {
+      "id": 129,
+      "title": "طوسی تیره",
+      "code": "#4D4D4D",
+      "hex_code": "#4D4D4D"
+     }
+    ],
+    "data_layer": {
+     "brand": "باینت",
+     "category": "[AP,تی شرت و پولو شرت مردانه]",
+     "metric6": 38,
+     "dimension2": 0,
+     "dimension6": 0,
+     "dimension7": "none",
+     "dimension9": 4.2,
+     "dimension11": 0,
+     "dimension20": "marketable",
+     "item_category2": "مد و پوشاک",
+     "item_category3": "مردانه",
+     "item_category4": "لباس مردانه",
+     "item_category5": "تی شرت مردانه"
+    },
+    "default_variant": {
+     "id": 81663343,
+     "title": "تی شرت اورسایز مردانه باینت مدل 865 | سرمه ای | L | گارانتی اصالت و سلامت فیزیکی کالا",
+     "status": "marketable",
+     "rate": 0,
+     "lead_time": 0,
+     "rank": 0,
+     "order_limit": 30,
+     "marketable_stock": 16,
+     "themes": [
+      {
+       "value": {
+        "variant_id": 81663343,
+        "id": 9,
+        "title": "سرمه ای",
+        "code": "#002171",
+        "hex_code": "#002171",
+        "nature": "color"
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": true
+      },
+      {
+       "value": {
+        "variant_id": 81663343,
+        "id": 100177,
+        "title": "L",
+        "nature": "alpha"
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": false
+      }
+     ],
+     "color": {
+      "id": 9,
+      "title": "سرمه ای",
+      "code": "#002171",
+      "hex_code": "#002171"
+     },
+     "seller": {
+      "id": 1,
+      "title": "دیجی‌کالا",
+      "code": "5A52N",
+      "url": "/seller/5A52N/",
+      "rating": {
+       "total_rate": 0,
+       "total_count": 0,
+       "commitment": 0,
+       "no_return": 0,
+       "on_time_shipping": 0
+      },
+      "properties": {
+       "is_trusted": false,
+       "is_official": false,
+       "is_roosta": false,
+       "is_new": false
+      },
+      "stars": null,
+      "grade": {
+       "label": "بدون عملکرد",
+       "color": "#81858B"
+      },
+      "registration_date": "",
+      "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+     },
+     "price": {
+      "selling_price": 19890000,
+      "rrp_price": 19890000,
+      "order_limit": 30,
+      "is_incredible": false,
+      "is_promotion": false,
+      "is_locked_for_digiplus": false,
+      "bnpl_active": false,
+      "min_order_limit": 1
+     },
+     "has_importer_price": false,
+     "manufacture_price_not_exist": false,
+     "has_best_price_in_last_month": false
+    },
+    "gallery_variant_type": "vertical",
+    "has_quick_view": false,
+    "id": 22278703,
+    "images": {
+     "main": {
+      "url": [
+       "https://dkstatics-public.digikala.com/digikala-products/c072b93ac41d2e5d77fd23b32a0cb2d3366c7366_1784411094.jpg"
+      ],
+      "webp_url": [
+       ""
+      ]
+     }
+    },
+    "product_type": "product",
+    "properties": {
+     "is_fast_shipping": false,
+     "is_ship_by_seller": false,
+     "free_shipping_badge": false,
+     "is_multi_warehouse": false,
+     "is_fake": false,
+     "has_gift": false,
+     "min_price_in_last_month": null,
+     "is_non_inventory": false,
+     "is_outlet": false,
+     "is_jet_eligible": true,
+     "is_ad": false
+    },
+    "rating": {
+     "rate": 83.15789473684211,
+     "count": 38
+    },
+    "sizes": [
+     {
+      "id": 100177,
+      "title": "L"
+     },
+     {
+      "id": 100172,
+      "title": "XXL"
+     },
+     {
+      "id": 100189,
+      "title": "3XL"
+     },
+     {
+      "id": 100187,
+      "title": "4XL"
+     },
+     {
+      "id": 100174,
+      "title": "XL"
+     }
+    ],
+    "status": "marketable",
+    "test_title_en": "",
+    "test_title_fa": "",
+    "title_en": "",
+    "title_fa": "تی شرت اورسایز مردانه باینت مدل 865",
+    "url": {
+     "base": null,
+     "uri": "/product/22278703-تی-شرت-اورسایز-مردانه-باینت-مدل-865",
+     "params": [
+      {
+       "product_id": 22278703,
+       "variant_id": 81663343
+      }
+     ]
+    },
+    "variants": [
+     {
+      "id": 81663343,
+      "title": "تی شرت اورسایز مردانه باینت مدل 865 | سرمه ای | L | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 0,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 30,
+      "marketable_stock": 16,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 81663343,
+         "id": 9,
+         "title": "سرمه ای",
+         "code": "#002171",
+         "hex_code": "#002171",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 81663343,
+         "id": 100177,
+         "title": "L",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 9,
+       "title": "سرمه ای",
+       "code": "#002171",
+       "hex_code": "#002171"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 19890000,
+       "rrp_price": 19890000,
+       "order_limit": 30,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 81663355,
+      "title": "تی شرت اورسایز مردانه باینت مدل 865 | سبز | L | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 0,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 30,
+      "marketable_stock": 13,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 81663355,
+         "id": 6,
+         "title": "سبز",
+         "code": "#008000",
+         "hex_code": "#008000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 81663355,
+         "id": 100177,
+         "title": "L",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 6,
+       "title": "سبز",
+       "code": "#008000",
+       "hex_code": "#008000"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 19890000,
+       "rrp_price": 19890000,
+       "order_limit": 30,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 81663358,
+      "title": "تی شرت اورسایز مردانه باینت مدل 865 | سبز | XXL | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 0,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 30,
+      "marketable_stock": 16,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 81663358,
+         "id": 6,
+         "title": "سبز",
+         "code": "#008000",
+         "hex_code": "#008000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 81663358,
+         "id": 100172,
+         "title": "XXL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 6,
+       "title": "سبز",
+       "code": "#008000",
+       "hex_code": "#008000"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 19890000,
+       "rrp_price": 19890000,
+       "order_limit": 30,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 81663360,
+      "title": "تی شرت اورسایز مردانه باینت مدل 865 | سبز | 3XL | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 100,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 30,
+      "marketable_stock": 3,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 81663360,
+         "id": 6,
+         "title": "سبز",
+         "code": "#008000",
+         "hex_code": "#008000",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 81663360,
+         "id": 100189,
+         "title": "3XL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 6,
+       "title": "سبز",
+       "code": "#008000",
+       "hex_code": "#008000"
+      },
+      "seller": {
+       "id": 1,
+       "title": "دیجی‌کالا",
+       "code": "5A52N",
+       "url": "/seller/5A52N/",
+       "rating": {
+        "total_rate": 0,
+        "total_count": 0,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": false,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": "https://dkstatics-public.digikala.com/digikala-marketplace-seller-logo/002e77bfa27829e04cf9c78520c6e7c3cd3ad74d_1791965106.png"
+      },
+      "price": {
+       "selling_price": 19890000,
+       "rrp_price": 19890000,
+       "order_limit": 30,
+       "is_incredible": false,
+       "is_promotion": false,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "marketable_stock": 3,
+       "min_order_limit": 1
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     }
+    ]
+   },
+   {
+    "badges": [],
+    "colors": [
+     {
+      "id": 89,
+      "title": "آبی یخی",
+      "code": "#d5f2ff",
+      "hex_code": "#d5f2ff"
+     },
+     {
+      "id": 30,
+      "title": "بژ",
+      "code": "#e6dab3",
+      "hex_code": "#e6dab3"
+     },
+     {
+      "id": 21,
+      "title": "زیتونی",
+      "code": "#808000",
+      "hex_code": "#808000"
+     },
+     {
+      "id": 77,
+      "title": "سبز کله غازی",
+      "code": "#01554b",
+      "hex_code": "#01554b"
+     },
+     {
+      "id": 84,
+      "title": "شیری",
+      "code": "#FAF3E0",
+      "hex_code": "#FAF3E0"
+     },
+     {
+      "id": 13,
+      "title": "نوک مدادی",
+      "code": "#424242",
+      "hex_code": "#424242"
+     },
+     {
+      "id": 1,
+      "title": "مشکی",
+      "code": "#000000",
+      "hex_code": "#000000"
+     },
+     {
+      "id": 2,
+      "title": "سفید",
+      "code": "#FFFFFF",
+      "hex_code": "#FFFFFF"
+     },
+     {
+      "id": 9,
+      "title": "سرمه ای",
+      "code": "#002171",
+      "hex_code": "#002171"
+     }
+    ],
+    "data_layer": {
+     "brand": "رانژ",
+     "category": "[AP,تی شرت و پولو شرت مردانه]",
+     "metric6": 474,
+     "dimension2": 10,
+     "dimension6": 0,
+     "dimension7": "special-offer",
+     "dimension9": 4.3,
+     "dimension11": 0,
+     "dimension20": "marketable",
+     "item_category2": "مد و پوشاک",
+     "item_category3": "مردانه",
+     "item_category4": "لباس مردانه",
+     "item_category5": "تی شرت مردانه"
+    },
+    "default_variant": {
+     "id": 40120673,
+     "title": "تی‌شرت آستین بلند یقه گرد مردانه رانژ مدل ساده 23RA05 - 412  | XL | آبی یخی | گارانتی اصالت و سلامت فیزیکی کالا",
+     "status": "marketable",
+     "rate": 82.6,
+     "lead_time": 0,
+     "rank": 0,
+     "order_limit": 20,
+     "marketable_stock": 11,
+     "themes": [
+      {
+       "value": {
+        "variant_id": 40120673,
+        "id": 100174,
+        "title": "XL",
+        "nature": "alpha"
+       },
+       "label": "سایز",
+       "type": "sized",
+       "is_main": true
+      },
+      {
+       "value": {
+        "variant_id": 40120673,
+        "id": 89,
+        "title": "آبی یخی",
+        "code": "#d5f2ff",
+        "hex_code": "#d5f2ff",
+        "nature": "color"
+       },
+       "label": "رنگ",
+       "type": "colored",
+       "is_main": false
+      }
+     ],
+     "color": {
+      "id": 89,
+      "title": "آبی یخی",
+      "code": "#d5f2ff",
+      "hex_code": "#d5f2ff"
+     },
+     "seller": {
+      "id": 563798,
+      "title": "فروشگاه رانژ",
+      "code": "CZ4T5",
+      "url": "/seller/CZ4T5/",
+      "rating": {
+       "total_rate": 88,
+       "total_count": 7484,
+       "commitment": 0,
+       "no_return": 0,
+       "on_time_shipping": 0
+      },
+      "properties": {
+       "is_trusted": true,
+       "is_official": false,
+       "is_roosta": false,
+       "is_new": false
+      },
+      "stars": null,
+      "grade": {
+       "label": "بدون عملکرد",
+       "color": "#81858B"
+      },
+      "registration_date": "",
+      "logo": null
+     },
+     "price": {
+      "selling_price": 24210000,
+      "rrp_price": 26900000,
+      "order_limit": 20,
+      "is_incredible": false,
+      "is_promotion": true,
+      "is_locked_for_digiplus": false,
+      "bnpl_active": false,
+      "discount_percent": 10,
+      "min_order_limit": 1,
+      "badge": {
+       "title": "فروش ویژه"
+      },
+      "discount": 10,
+      "is_selling_and_sales": true,
+      "show_discount_badge": true
+     },
+     "has_importer_price": false,
+     "manufacture_price_not_exist": false,
+     "has_best_price_in_last_month": false
+    },
+    "gallery_variant_type": "vertical",
+    "has_quick_view": false,
+    "id": 11311892,
+    "images": {
+     "main": {
+      "url": [
+       "https://dkstatics-public.digikala.com/digikala-products/3aa247821a478f9061d17457e81bea53dd40efe6_1751463443.jpg"
+      ],
+      "webp_url": [
+       ""
+      ]
+     }
+    },
+    "product_type": "product",
+    "properties": {
+     "is_fast_shipping": false,
+     "is_ship_by_seller": true,
+     "free_shipping_badge": false,
+     "is_multi_warehouse": false,
+     "is_fake": false,
+     "has_gift": false,
+     "min_price_in_last_month": null,
+     "is_non_inventory": false,
+     "is_outlet": false,
+     "is_jet_eligible": true,
+     "is_ad": false
+    },
+    "rating": {
+     "rate": 85.73839662447257,
+     "count": 474
+    },
+    "sizes": [
+     {
+      "id": 100174,
+      "title": "XL"
+     },
+     {
+      "id": 100187,
+      "title": "4XL"
+     },
+     {
+      "id": 100185,
+      "title": "5XL"
+     },
+     {
+      "id": 100183,
+      "title": "6XL"
+     },
+     {
+      "id": 100181,
+      "title": "7XL"
+     },
+     {
+      "id": 100177,
+      "title": "L"
+     },
+     {
+      "id": 100175,
+      "title": "S"
+     },
+     {
+      "id": 100176,
+      "title": "M"
+     },
+     {
+      "id": 100172,
+      "title": "XXL"
+     },
+     {
+      "id": 100189,
+      "title": "3XL"
+     }
+    ],
+    "status": "marketable",
+    "test_title_en": "",
+    "test_title_fa": "تی‌شرت آستین بلند مردانه رانژ مدل ساده 23RA05 - 412از جنس 100 درصد پنبه کریستال، یقه گرد، تنخور جذب، مناسب استفاده روزمره، رسمی، ورزشی و مهمانی، با دوخت مقاوم و پارچه نرم و لطیف",
+    "title_en": "",
+    "title_fa": "تی‌شرت آستین بلند یقه گرد مردانه رانژ مدل ساده 23RA05 - 412 ",
+    "url": {
+     "base": null,
+     "uri": "/product/11311892-تیشرت-آستین-بلند-یقه-گرد-مردانه-رانژ-مدل-ساده-23ra05-412",
+     "params": [
+      {
+       "product_id": 11311892,
+       "variant_id": 40120673
+      }
+     ]
+    },
+    "variants": [
+     {
+      "id": 40120673,
+      "title": "تی‌شرت آستین بلند یقه گرد مردانه رانژ مدل ساده 23RA05 - 412  | XL | آبی یخی | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 82.6,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 20,
+      "marketable_stock": 11,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 40120673,
+         "id": 100174,
+         "title": "XL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 40120673,
+         "id": 89,
+         "title": "آبی یخی",
+         "code": "#d5f2ff",
+         "hex_code": "#d5f2ff",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 89,
+       "title": "آبی یخی",
+       "code": "#d5f2ff",
+       "hex_code": "#d5f2ff"
+      },
+      "seller": {
+       "id": 563798,
+       "title": "فروشگاه رانژ",
+       "code": "CZ4T5",
+       "url": "/seller/CZ4T5/",
+       "rating": {
+        "total_rate": 88,
+        "total_count": 7484,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 24210000,
+       "rrp_price": 26900000,
+       "order_limit": 20,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 10,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 10,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 57472500,
+      "title": "تی‌شرت آستین بلند یقه گرد مردانه رانژ مدل ساده 23RA05 - 412  | 4XL | بژ | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 100,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 20,
+      "marketable_stock": 20,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 57472500,
+         "id": 100187,
+         "title": "4XL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 57472500,
+         "id": 30,
+         "title": "بژ",
+         "code": "#e6dab3",
+         "hex_code": "#e6dab3",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 30,
+       "title": "بژ",
+       "code": "#e6dab3",
+       "hex_code": "#e6dab3"
+      },
+      "seller": {
+       "id": 563798,
+       "title": "فروشگاه رانژ",
+       "code": "CZ4T5",
+       "url": "/seller/CZ4T5/",
+       "rating": {
+        "total_rate": 88,
+        "total_count": 7484,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 24210000,
+       "rrp_price": 26900000,
+       "order_limit": 20,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 10,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 10,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 57472507,
+      "title": "تی‌شرت آستین بلند یقه گرد مردانه رانژ مدل ساده 23RA05 - 412  | 5XL | بژ | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 100,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 20,
+      "marketable_stock": 19,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 57472507,
+         "id": 100185,
+         "title": "5XL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 57472507,
+         "id": 30,
+         "title": "بژ",
+         "code": "#e6dab3",
+         "hex_code": "#e6dab3",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 30,
+       "title": "بژ",
+       "code": "#e6dab3",
+       "hex_code": "#e6dab3"
+      },
+      "seller": {
+       "id": 563798,
+       "title": "فروشگاه رانژ",
+       "code": "CZ4T5",
+       "url": "/seller/CZ4T5/",
+       "rating": {
+        "total_rate": 88,
+        "total_count": 7484,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 24210000,
+       "rrp_price": 26900000,
+       "order_limit": 20,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 10,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 10,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     },
+     {
+      "id": 57472513,
+      "title": "تی‌شرت آستین بلند یقه گرد مردانه رانژ مدل ساده 23RA05 - 412  | 6XL | بژ | گارانتی اصالت و سلامت فیزیکی کالا",
+      "status": "marketable",
+      "rate": 100,
+      "lead_time": 0,
+      "rank": 0,
+      "order_limit": 20,
+      "marketable_stock": 20,
+      "themes": [
+       {
+        "value": {
+         "variant_id": 57472513,
+         "id": 100183,
+         "title": "6XL",
+         "nature": "alpha"
+        },
+        "label": "سایز",
+        "type": "sized",
+        "is_main": true
+       },
+       {
+        "value": {
+         "variant_id": 57472513,
+         "id": 30,
+         "title": "بژ",
+         "code": "#e6dab3",
+         "hex_code": "#e6dab3",
+         "nature": "color"
+        },
+        "label": "رنگ",
+        "type": "colored",
+        "is_main": false
+       }
+      ],
+      "color": {
+       "id": 30,
+       "title": "بژ",
+       "code": "#e6dab3",
+       "hex_code": "#e6dab3"
+      },
+      "seller": {
+       "id": 563798,
+       "title": "فروشگاه رانژ",
+       "code": "CZ4T5",
+       "url": "/seller/CZ4T5/",
+       "rating": {
+        "total_rate": 88,
+        "total_count": 7484,
+        "commitment": 0,
+        "no_return": 0,
+        "on_time_shipping": 0
+       },
+       "properties": {
+        "is_trusted": true,
+        "is_official": false,
+        "is_roosta": false,
+        "is_new": false
+       },
+       "stars": null,
+       "grade": {
+        "label": "بدون عملکرد",
+        "color": "#81858B"
+       },
+       "registration_date": "",
+       "logo": null
+      },
+      "price": {
+       "selling_price": 24210000,
+       "rrp_price": 26900000,
+       "order_limit": 20,
+       "is_incredible": false,
+       "is_promotion": true,
+       "is_locked_for_digiplus": false,
+       "bnpl_active": false,
+       "discount_percent": 10,
+       "min_order_limit": 1,
+       "badge": {
+        "title": "فروش ویژه"
+       },
+       "discount": 10,
+       "is_selling_and_sales": true,
+       "show_discount_badge": true
+      },
+      "has_importer_price": false,
+      "manufacture_price_not_exist": false,
+      "has_best_price_in_last_month": false
+     }
+    ]
+   }
+  ],
+  "query_attributes": {
+   "category_ids": [
+    9460
+   ]
+  },
+  "quick_filters": [
+   {
+    "label": "آستین بلند",
+    "type": "single",
+    "filter_name": "attribute_50",
+    "filter_value": 114
+   },
+   {
+    "label": "آستین کوتاه",
+    "type": "single",
+    "filter_name": "attribute_50",
+    "filter_value": 118
+   },
+   {
+    "label": "مناسب بدن سازی",
+    "type": "single",
+    "filter_name": "attribute_3837",
+    "filter_value": 12090
+   },
+   {
+    "label": "تاپ ورزشی",
+    "type": "single",
+    "filter_name": "attribute_8897",
+    "filter_value": 44961
+   },
+   {
+    "label": "تنخور آزاد",
+    "type": "single",
+    "filter_name": "attribute_231",
+    "filter_value": 51
+   },
+   {
+    "label": "مشکی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 8
+   },
+   {
+    "label": "آبی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 12
+   },
+   {
+    "label": "قرمز",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 9
+   },
+   {
+    "label": "سفید",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 5
+   },
+   {
+    "label": "طوسی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 7
+   },
+   {
+    "label": "بنفش",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 2
+   },
+   {
+    "label": "نارنجی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 4
+   },
+   {
+    "label": "نقره‌ای",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 6
+   },
+   {
+    "label": "سبز",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 11
+   },
+   {
+    "label": "صورتی",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 1
+   },
+   {
+    "label": "قهوه‌‌ای",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 10
+   },
+   {
+    "label": "زرد",
+    "type": "single",
+    "filter_name": "color_palettes",
+    "filter_value": 3
+   }
+  ],
+  "result_type": "no_change",
+  "search_method": "default",
+  "search_phase": -10,
+  "sort": {
+   "default": 22
+  },
+  "sort_options": [
+   {
+    "id": 22,
+    "title_fa": "مرتبط‌ترین"
+   },
+   {
+    "id": 4,
+    "title_fa": "پربازدیدترین"
+   },
+   {
+    "id": 1,
+    "title_fa": "جدیدترین"
+   },
+   {
+    "id": 7,
+    "title_fa": "پرفروش‌ترین"
+   },
+   {
+    "id": 20,
+    "title_fa": "قیمت از کم به زیاد"
+   },
+   {
+    "id": 21,
+    "title_fa": "قیمت از زیاد به کم"
+   },
+   {
+    "id": 25,
+    "title_fa": "سریع‌ترین ارسال"
+   },
+   {
+    "id": 27,
+    "title_fa": "پیشنهاد خریداران"
+   },
+   {
+    "id": 29,
+    "title_fa": "منتخب"
+   }
+  ],
+  "text_lenz_eligibility": "meh",
+  "total_hits": 825
+ },
+ "status": 200
+}

@@ -1,0 +1,819 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 3,
+   "title": "زنانه",
+   "title_en": null,
+   "url": {
+    "url": "/category/womens-apparel/",
+    "page": "category_search_page",
+    "params": {
+     "category_code": "womens-apparel"
+    },
+    "queries": []
+   },
+   "type": "general",
+   "object": "text",
+   "level": "1",
+   "children": [
+    {
+     "id": 98,
+     "title": "لباس زنانه",
+     "title_en": null,
+     "url": {
+      "url": "/category/women-clothing/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "women-clothing"
+      },
+      "queries": []
+     },
+     "type": "general",
+     "object": "text",
+     "level": "2",
+     "features": null,
+     "image": [],
+     "icon": {
+      "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/378bec16654d9d991d9b16f7dd75850191804016_1623225727.png",
+      "storage_id": "378bec16654d9d991d9b16f7dd75850191804016_1623225727"
+     },
+     "banner_desktop": [],
+     "children": [
+      {
+       "id": 103,
+       "title": "خرید لباس زنانه",
+       "title_en": null,
+       "url": {
+        "url": "/category/women-clothing/",
+        "page": "category_search_page",
+        "params": {
+         "category_code": "women-clothing"
+        },
+        "queries": []
+       },
+       "type": "general",
+       "object": "text",
+       "level": "3",
+       "features": {
+        "view_all": {
+         "title": "تمام دسته‌ها",
+         "url": "/category-women-clothing/"
+        },
+        "promotion": {
+         "title": "حراج استایل",
+         "url": "/sales/women-clothing/"
+        },
+        "newest": {
+         "title": "جدیدترین‌ها",
+         "url": "/category-women-clothing/?sortby=1"
+        }
+       },
+       "image": [],
+       "icon": [],
+       "banner_desktop": [],
+       "children": [
+        {
+         "id": 117,
+         "title": "تاپ و نیم تنه",
+         "title_en": null,
+         "url": {
+          "url": "/category/women-tops-and-croptops/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "women-tops-and-croptops"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/a8dc7ac27b757f2b1fc9e94fe211b2e26940cbbd_1779385486.png",
+          "storage_id": "a8dc7ac27b757f2b1fc9e94fe211b2e26940cbbd_1779385486"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 115,
+         "title": "تی‌شرت",
+         "title_en": null,
+         "url": {
+          "url": "/category/women-tee-shirts/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "women-tee-shirts"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/90d13a7fc2dd264fc9e5366d46063d7f7fc748e9_1779359739.png",
+          "storage_id": "90d13a7fc2dd264fc9e5366d46063d7f7fc748e9_1779359739"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 107,
+         "title": "پولوشرت",
+         "title_en": null,
+         "url": {
+          "url": "/category/women-polo-shirt/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "women-polo-shirt"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/a37096ac1975a59adda4602c744b09a255d4ef7f_1779638118.png",
+          "storage_id": "a37096ac1975a59adda4602c744b09a255d4ef7f_1779638118"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 99,
+     "title": "کیف",
+     "title_en": null,
+     "url": {
+      "url": "/category/women-accessories/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "women-accessories"
+      },
+      "queries": []
+     },
+     "type": "general",
+     "object": "text",
+     "level": "2",
+     "features": null,
+     "image": [],
+     "icon": {
+      "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/27.png",
+      "storage_id": "27"
+     },
+     "banner_desktop": [],
+     "children": [
+      {
+       "id": 131,
+       "title": "خرید کیف زنانه",
+       "title_en": null,
+       "url": [],
+       "type": "general",
+       "object": "text",
+       "level": "3",
+       "features": {
+        "view_all": {
+         "title": "تمام دسته‌ها",
+         "url": "/category-women-bags/"
+        },
+        "promotion": {
+         "title": "حراج استایل",
+         "url": "/sales/women-bags/"
+        },
+        "newest": {
+         "title": "جدیدترین‌ها",
+         "url": "/category-women-bags/?sortby=1"
+        }
+       },
+       "image": [],
+       "icon": [],
+       "banner_desktop": [],
+       "children": [
+        {
+         "id": 134,
+         "title": "کیف",
+         "title_en": null,
+         "url": {
+          "url": "/category/women-bags/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "women-bags"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/703899567c0d0a6eb09f6dfe268935cb8b8ac49a_1779385635.png",
+          "storage_id": "703899567c0d0a6eb09f6dfe268935cb8b8ac49a_1779385635"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 136,
+         "title": "کوله پشتی",
+         "title_en": null,
+         "url": {
+          "url": "/category/women-backpacks/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "women-backpacks"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/43ed10580a643e0f59329edf3533f2e2d297da93_1779360460.png",
+          "storage_id": "43ed10580a643e0f59329edf3533f2e2d297da93_1779360460"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 555,
+         "title": "ساک و چمدان",
+         "title_en": null,
+         "url": {
+          "url": "/category/trolley-case-and-luggage/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "trolley-case-and-luggage"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/5444ecdfccef0b80ae2cc8a27c6cb61a8184cf61_1779360471.png",
+          "storage_id": "5444ecdfccef0b80ae2cc8a27c6cb61a8184cf61_1779360471"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 100,
+     "title": "کفش",
+     "title_en": null,
+     "url": {
+      "url": "/category/women-shoes/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "women-shoes"
+      },
+      "queries": []
+     },
+     "type": "general",
+     "object": "text",
+     "level": "2",
+     "features": null,
+     "image": [],
+     "icon": {
+      "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/28.png",
+      "storage_id": "28"
+     },
+     "banner_desktop": [],
+     "children": [
+      {
+       "id": 141,
+       "title": "خرید کفش زنانه",
+       "title_en": null,
+       "url": [],
+       "type": "general",
+       "object": "text",
+       "level": "3",
+       "features": {
+        "view_all": {
+         "title": "تمام دسته‌ها",
+         "url": "/category-women-shoes/"
+        },
+        "promotion": {
+         "title": "حراج استایل",
+         "url": "/sales/women-shoes/"
+        },
+        "newest": {
+         "title": "جدیدترین‌ها",
+         "url": "/category-women-shoes/?sortby=1"
+        }
+       },
+       "image": [],
+       "icon": [],
+       "banner_desktop": [],
+       "children": [
+        {
+         "id": 151,
+         "title": "روزمره",
+         "title_en": null,
+         "url": {
+          "url": "/category/casual-shoes-for-women/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "casual-shoes-for-women"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/8f98a843257623f2dd2b4aea0939d39410054707_1779360929.png",
+          "storage_id": "8f98a843257623f2dd2b4aea0939d39410054707_1779360929"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 148,
+         "title": "صندل",
+         "title_en": null,
+         "url": {
+          "url": "/category/women-sandals/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "women-sandals"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/c420ae6fd82826368eb079bd440b05f86b038d59_1779361127.png",
+          "storage_id": "c420ae6fd82826368eb079bd440b05f86b038d59_1779361127"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 464,
+         "title": "کالج",
+         "title_en": null,
+         "url": {
+          "url": "/category/women-boat-shoes/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "women-boat-shoes"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/bb29f991a19a9fde4b1d91fe097f66fb50c6a0b5_1779360946.png",
+          "storage_id": "bb29f991a19a9fde4b1d91fe097f66fb50c6a0b5_1779360946"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "title": "مردانه",
+   "title_en": null,
+   "url": {
+    "url": "/category/mens-apparel/",
+    "page": "category_search_page",
+    "params": {
+     "category_code": "mens-apparel"
+    },
+    "queries": []
+   },
+   "type": "general",
+   "object": "text",
+   "level": "1",
+   "children": [
+    {
+     "id": 6,
+     "title": "لباس",
+     "title_en": null,
+     "url": {
+      "url": "/category/men-clothing/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "men-clothing"
+      },
+      "queries": []
+     },
+     "type": "general",
+     "object": "text",
+     "level": "2",
+     "features": null,
+     "image": [],
+     "icon": {
+      "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/378bec16654d9d991d9b16f7dd75850191804016_1623225736.png",
+      "storage_id": "378bec16654d9d991d9b16f7dd75850191804016_1623225736"
+     },
+     "banner_desktop": [],
+     "children": [
+      {
+       "id": 15,
+       "title": "خرید لباس مردانه",
+       "title_en": null,
+       "url": {
+        "url": "/category/men-clothing/",
+        "page": "category_search_page",
+        "params": {
+         "category_code": "men-clothing"
+        },
+        "queries": []
+       },
+       "type": "general",
+       "object": "text",
+       "level": "3",
+       "features": {
+        "view_all": {
+         "title": "تمام دسته‌ها",
+         "url": "/category-men-clothing/"
+        },
+        "promotion": {
+         "title": "حراج استایل",
+         "url": "/sales/men-clothing/"
+        },
+        "newest": {
+         "title": "جدیدترین‌ها",
+         "url": "/category-men-clothing/?sortby=1"
+        }
+       },
+       "image": [],
+       "icon": [],
+       "banner_desktop": [],
+       "children": [
+        {
+         "id": 27,
+         "title": "تی شرت",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-tee-shirts/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-tee-shirts"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/5ed3d98f78a522e35b407e1ff3312b1cb33bab54_1779363656.png",
+          "storage_id": "5ed3d98f78a522e35b407e1ff3312b1cb33bab54_1779363656"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 561,
+         "title": "پولوشرت",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-polo-shirt/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-polo-shirt"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/b2fed41422b95ea931085197360da20ccd2b6b65_1779534147.png",
+          "storage_id": "b2fed41422b95ea931085197360da20ccd2b6b65_1779534147"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 26,
+         "title": "پیراهن",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-shirts/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-shirts"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/47eeca26979d54790d3e9be5d86e179872620f3c_1779538075.png",
+          "storage_id": "47eeca26979d54790d3e9be5d86e179872620f3c_1779538075"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "title": "کیف",
+     "title_en": null,
+     "url": {
+      "url": "/category/men-accessories/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "men-accessories"
+      },
+      "queries": []
+     },
+     "type": "general",
+     "object": "text",
+     "level": "2",
+     "features": null,
+     "image": [],
+     "icon": {
+      "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/2.png",
+      "storage_id": "2"
+     },
+     "banner_desktop": [],
+     "children": [
+      {
+       "id": 36,
+       "title": "خرید کیف مردانه",
+       "title_en": null,
+       "url": {
+        "url": "/category/men-accessories/",
+        "page": "category_search_page",
+        "params": {
+         "category_code": "men-accessories"
+        },
+        "queries": []
+       },
+       "type": "general",
+       "object": "text",
+       "level": "3",
+       "features": {
+        "view_all": {
+         "title": "تمام دسته‌ها",
+         "url": "/category-men-bags/"
+        },
+        "promotion": {
+         "title": "حراج استایل",
+         "url": "/sales/men-bags/"
+        },
+        "newest": {
+         "title": "جدیدترین‌ها",
+         "url": "/category-men-bags/?sortby=1"
+        }
+       },
+       "image": [],
+       "icon": [],
+       "banner_desktop": [],
+       "children": [
+        {
+         "id": 39,
+         "title": "کیف",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-bags/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-bags"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/7ffaeffaa231d530b725fcb110e273e0e39e762d_1779535406.png",
+          "storage_id": "7ffaeffaa231d530b725fcb110e273e0e39e762d_1779535406"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 40,
+         "title": "کیف پول",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-wallets-bags/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-wallets-bags"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/bbd613136b5cd33b42fb3b8b9b2741607c2deaf6_1779364314.png",
+          "storage_id": "bbd613136b5cd33b42fb3b8b9b2741607c2deaf6_1779364314"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 42,
+         "title": "کوله پشتی",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-backpacks/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-backpacks"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/d9c0185d45d9a2d56b2a9992d98cdb1f6c56183c_1779364321.png",
+          "storage_id": "d9c0185d45d9a2d56b2a9992d98cdb1f6c56183c_1779364321"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "title": "کفش",
+     "title_en": null,
+     "url": {
+      "url": "/category/men-shoes/",
+      "page": "category_search_page",
+      "params": {
+       "category_code": "men-shoes"
+      },
+      "queries": []
+     },
+     "type": "general",
+     "object": "text",
+     "level": "2",
+     "features": null,
+     "image": [],
+     "icon": {
+      "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/3.png",
+      "storage_id": "3"
+     },
+     "banner_desktop": [],
+     "children": [
+      {
+       "id": 47,
+       "title": "خرید کفش مردانه",
+       "title_en": null,
+       "url": {
+        "url": "/category/men-shoes/",
+        "page": "category_search_page",
+        "params": {
+         "category_code": "men-shoes"
+        },
+        "queries": []
+       },
+       "type": "general",
+       "object": "text",
+       "level": "3",
+       "features": {
+        "view_all": {
+         "title": "تمام دسته‌ها",
+         "url": "/category-men-shoes/"
+        },
+        "promotion": {
+         "title": "حراج استایل",
+         "url": "/sales/men-shoes/"
+        },
+        "newest": {
+         "title": "جدیدترین‌ها",
+         "url": "/category-men-shoes/?sortby=1"
+        }
+       },
+       "image": [],
+       "icon": [],
+       "banner_desktop": [],
+       "children": [
+        {
+         "id": 54,
+         "title": "روزمره",
+         "title_en": null,
+         "url": {
+          "url": "/category/casual-shoes-for-men/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "casual-shoes-for-men"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/e8c33e5411092dffc72679f72e7a57d99538f58a_1779364637.png",
+          "storage_id": "e8c33e5411092dffc72679f72e7a57d99538f58a_1779364637"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 455,
+         "title": "کالج",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-driving-shoes/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-driving-shoes"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/7512731626a27d1e901bded362a7192e6bd7f4b4_1779364648.png",
+          "storage_id": "7512731626a27d1e901bded362a7192e6bd7f4b4_1779364648"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        },
+        {
+         "id": 52,
+         "title": "رسمی",
+         "title_en": null,
+         "url": {
+          "url": "/category/men-formal-shoes/",
+          "page": "category_search_page",
+          "params": {
+           "category_code": "men-formal-shoes"
+          },
+          "queries": []
+         },
+         "type": "general",
+         "object": "text",
+         "level": "4",
+         "features": null,
+         "image": {
+          "url": "https://dkstatics-public.digikala.com/digistyle-mega-menu/24c9ee0712b4cba03b0fef486a086b3caf96c7fc_1779364545.png",
+          "storage_id": "24c9ee0712b4cba03b0fef486a086b3caf96c7fc_1779364545"
+         },
+         "icon": [],
+         "banner_desktop": [],
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
