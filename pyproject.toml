@@ -1,6 +1,6 @@
 [project]
 name = "digistyle-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Unofficial read-only MCP server for Digistyle (digistyle.com), Digikala's fashion store: product search with size, brand and price filters, product details, categories, brands, discounts."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
