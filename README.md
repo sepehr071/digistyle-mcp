@@ -80,10 +80,6 @@ Real answer (18 Nov 2026): `ds_deals(category="women-tee-shirts", min_discount=3
 - Campaign pages under `/sales/` return 404 on the site and are not covered. Basket, favorites, orders, seller pages and anything behind a login are not covered.
 - The site answers both Iranian and foreign networks in testing; if yours is blocked, set `DIGISTYLE_MCP_PROXY`. The server ignores system proxy variables on purpose.
 
-## How it works
-
-Digistyle has no public API documentation. The endpoints were mapped by watching digistyle.com in Chrome, and every tool was then checked in Chrome against the real rendered pages (search, filters, product, categories, brands, discounts) on 18 Nov 2026. The server calls those same public endpoints through a Chrome-impersonating HTTP client, with a short cache and a small number of parallel requests.
-
 ## فارسی
 
 <div dir="rtl">
